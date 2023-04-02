@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49595f251c35e76e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lekcja1/II. Podstawowa instalacja systemu Linux/1. Wybór nośnika instalacji.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lekcja1/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
+                "file": "Lekcja1/II. Podstawowa instalacja systemu Linux/1. Wybór nośnika instalacji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lekcja1/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
+                "file": "Lekcja1/II. Podstawowa instalacja systemu Linux/1. Wybór nośnika instalacji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lekcja1/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md"
+                "file": "Lekcja1/II. Podstawowa instalacja systemu Linux/1. Wybór nośnika instalacji.md"
               }
             }
           }
@@ -146,14 +159,25 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "3554a123f0e2e2ac",
+  "active": "49595f251c35e76e",
   "lastOpenFiles": [
-    "Linux-training-main/Lekcja1/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
+    "grafiki/1_02_2_CD.svg",
+    "grafiki/CD_icon_test.svg",
+    "Lekcja1/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
+    "Lekcja1/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
+    "Lekcja1/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
+    "Lekcja1/II. Podstawowa instalacja systemu Linux/1. Wybór nośnika instalacji.md",
+    "grafiki/1_02_1_pendrive.png",
+    "grafiki/pngwing.com.png",
+    "grafiki/1_01_1_linux_anagram.png",
+    "grafiki/1_01_3_Tux.png",
+    "grafiki/1_01_3.png",
+    "grafiki/1_01_1linux_anagram.png",
+    "grafiki/1_01.png",
+    "grafiki/1_01_linux_anagram.png",
     "Linux-training-main/Lekcja1/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
     "grafiki/Tux.png.md",
     "grafiki",
-    "grafiki/Tux.png",
-    "grafiki/linux_anagram.png",
     "grafiki"
   ]
 }

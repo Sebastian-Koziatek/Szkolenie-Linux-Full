@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aa1e92f1cd6b0000",
+        "id": "26948ad2133b6d55",
         "type": "tabs",
         "children": [
           {
-            "id": "179b7f7adf101673",
+            "id": "f10fb57eed10cd14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "I. Wprowadzenie do systemu Linux/1. Czym jest Linux?.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I. Wprowadzenie do systemu Linux/1. Czym jest Linux?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "I. Wprowadzenie do systemu Linux/1. Czym jest Linux?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "I. Wprowadzenie do systemu Linux/1. Czym jest Linux?.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "179b7f7adf101673",
+  "active": "f10fb57eed10cd14",
   "lastOpenFiles": [
+    "II. Podstawowa instalacja systemu Linux/1. Wybór nośnika instalacji.md",
     "Lekcja1",
     "I. Wprowadzenie do systemu Linux/1. Czym jest Linux?.md",
     "Lekcja 1/_grafiki/Screenshot at Mar 18 08-08-47.png.md",
