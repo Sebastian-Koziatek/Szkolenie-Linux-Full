@@ -26,8 +26,8 @@
               "type": "markdown",
               "state": {
                 "file": "Lekcja1/II. Podstawowa instalacja systemu Linux/1. Wybór nośnika instalacji.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -161,12 +161,12 @@
   },
   "active": "49595f251c35e76e",
   "lastOpenFiles": [
+    "Lekcja1/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
+    "Lekcja1/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
+    "Lekcja1/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
+    "Lekcja1/II. Podstawowa instalacja systemu Linux/1. Wybór nośnika instalacji.md",
     "grafiki/1_02_2_CD.svg",
     "grafiki/CD_icon_test.svg",
-    "Lekcja1/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
-    "Lekcja1/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
-    "Lekcja1/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
-    "Lekcja1/II. Podstawowa instalacja systemu Linux/1. Wybór nośnika instalacji.md",
     "grafiki/1_02_1_pendrive.png",
     "grafiki/pngwing.com.png",
     "grafiki/1_01_1_linux_anagram.png",
@@ -174,7 +174,6 @@
     "grafiki/1_01_3.png",
     "grafiki/1_01_1linux_anagram.png",
     "grafiki/1_01.png",
-    "grafiki/1_01_linux_anagram.png",
     "Linux-training-main/Lekcja1/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
     "grafiki/Tux.png.md",
     "grafiki",
