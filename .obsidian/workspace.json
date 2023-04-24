@@ -83,7 +83,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lekcja1/IV. Managery pakietów/2. Manager pakietów YUM.md",
+                "file": "Lekcja1/IV. Managery pakietów/7. Piekło zależności (Dependency hell).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4837a72ecc0a049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lekcja1/IV. Managery pakietów/7. Piekło zależności (Dependency hell).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a1391326a516a43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lekcja1/IV. Managery pakietów/5. Manager pakietów DNF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40b7a9eda1a2107b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lekcja1/IV. Managery pakietów/5. Manager pakietów DNF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9082d4b32aec90b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lekcja1/IV. Managery pakietów/6. Manager pakietów innych dystrybucji.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f1c83854ac3d813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lekcja1/V. Korzystanie z pomocy - man/1. Omówienie polecenia man.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -216,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lekcja1/IV. Managery pakietów/2. Manager pakietów YUM.md",
+                "file": "Lekcja1/V. Korzystanie z pomocy - man/1. Omówienie polecenia man.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lekcja1/IV. Managery pakietów/2. Manager pakietów YUM.md",
+                "file": "Lekcja1/V. Korzystanie z pomocy - man/1. Omówienie polecenia man.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lekcja1/IV. Managery pakietów/2. Manager pakietów YUM.md"
+                "file": "Lekcja1/V. Korzystanie z pomocy - man/1. Omówienie polecenia man.md"
               }
             }
           }
@@ -277,10 +337,24 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "28d0d10ec61a1a35",
+  "active": "04394065be70cde9",
   "lastOpenFiles": [
-    "Lekcja1/IV. Managery pakietów/1. Zasada działania managera pakietów.md",
+    "Lekcja1/IV. Managery pakietów/6. Manager pakietów innych dystrybucji.md",
+    "Lekcja1/V. Korzystanie z pomocy - man/1. Omówienie polecenia man.md",
+    "Lekcja1/V. Korzystanie z pomocy - man",
+    "Lekcja1/IV. Managery pakietów/7. Piekło zależności (Dependency hell).md",
+    "Lekcja1/IV. Managery pakietów/5. Manager pakietów DNF.md",
+    "grafiki/1_04_6_1_packagemanagers.png",
     "Lekcja1/IV. Managery pakietów/2. Manager pakietów YUM.md",
+    "Lekcja1/IV. Managery pakietów/3. Manager pakietów RPM.md",
+    "grafiki/1_04_3_1_rpm.png",
+    "grafiki/1_04_3_1_rpm.png",
+    "grafiki/Screenshot_8.png",
+    "grafiki/1_04_4_2_clephell2.png",
+    "grafiki/1_04_4_2_clephell2.png.crdownload",
+    "grafiki/Pasted image 20230424150208.png",
+    "grafiki/1_04_4_1_clephell.png",
+    "Lekcja1/IV. Managery pakietów/1. Zasada działania managera pakietów.md",
     "grafiki/1_04_02_1_packagemanager.png",
     "Lekcja1/III. środowiska graficzne/9. CLI vs GUI.md",
     "grafiki/1_04_01_packagemanager.png",
@@ -288,22 +362,15 @@
     "Lekcja1/IV. Managery pakietów.md",
     "Lekcja1/III. środowiska graficzne/8. Awsome Window manager.md",
     "Pasted image 20230421180112.png",
-    "grafiki/1_08_1_clivsgui.png",
     "Lekcja1/III. środowiska graficzne/9. CLI vs GUI",
     "Lekcja1/III. środowiska graficzne/6. Desktop environment vs Windows manager.md",
-    "Schema_of_the_layers_of_the_graphical_user_interface.svg",
-    "grafiki/1_06_1_DEvsWM2.png",
-    "Pasted image 20230421175058.png",
     "Lekcja1/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
-    "Lekcja1/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
     "Lekcja1/III. środowiska graficzne/7. DWM.md",
     "Lekcja1/III. środowiska graficzne/5. Mate.md",
     "Lekcja1/III. środowiska graficzne/4. Cinnamon.md",
     "Lekcja1/III. środowiska graficzne/3. XFCE.md",
     "Lekcja1/III. środowiska graficzne/2. KDE.md",
     "Lekcja1/III. środowiska graficzne/1. GNOME.md",
-    "grafiki/1_07_1_awm2.png",
-    "grafiki/1_07_1_awm.png",
     "Lekcja1/II. Podstawowa instalacja systemu Linux/6. Linux SWAP vs NO SWAP.md",
     "Lekcja1/III. środowiska graficzne",
     "Lekcja1/II. Podstawowa instalacja systemu Linux/5. Instalacja systemu.md",
@@ -314,9 +381,6 @@
     "Lekcja1/II. Podstawowa instalacja systemu Linux/3.2 Linux w chmurze.md",
     "Lekcja1/II. Podstawowa instalacja systemu Linux/2. Dostępne platformy Linux - Dystrybucje.md",
     "Lekcja1/II. Podstawowa instalacja systemu Linux/1. Wybór nośnika instalacji.md",
-    "Lekcja1/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
-    "Linux-training-main/Lekcja1/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
-    "grafiki/Tux.png.md",
     "grafiki",
     "grafiki"
   ]
