@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "06a967a1e76fb2db",
+        "id": "1ef568c8d4764a22",
         "type": "tabs",
         "children": [
           {
-            "id": "d4336cc5927f4b98",
+            "id": "06b04dcf0ad6256f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lekcja 1/VII. Korzystanie z pomocy - man/1. Omówienie polecenia man.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "927fc6f388e706ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lekcja 1/VI. Zadania rozdział II/1. Zadania.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b136a06f083a9eff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lekcja 1/III. środowiska graficzne/7. DWM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b59a0f9bd6003a99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lekcja 1/IV. Zadania rozdział I/1. Zadania.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcae540ea00be96e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lekcja 1/VII. Korzystanie z pomocy - man/2. Omówienie polecenia info.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "254424daf7e829c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lekcja 2/I. Praca z powłoką Bash/1. Schemat powłoki bash.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5290d508adb1a78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lekcja 1/III. środowiska graficzne/3. XFCE.md",
+                "file": "Lekcja 2/I. Praca z powłoką Bash/3. Struktura katalogów.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lekcja 1/III. środowiska graficzne/3. XFCE.md",
+                "file": "Lekcja 2/I. Praca z powłoką Bash/3. Struktura katalogów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lekcja 1/III. środowiska graficzne/3. XFCE.md",
+                "file": "Lekcja 2/I. Praca z powłoką Bash/3. Struktura katalogów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lekcja 1/III. środowiska graficzne/3. XFCE.md"
+                "file": "Lekcja 2/I. Praca z powłoką Bash/3. Struktura katalogów.md"
               }
             }
           }
@@ -219,25 +146,40 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "f5290d508adb1a78",
+  "active": "04394065be70cde9",
   "lastOpenFiles": [
-    "Lekcja 2/I. Praca z powłoką Bash/2. Podstawowe polecenia powłoki bash.md",
+    "grafiki/2_02_20_usrbin 1.png",
+    "Lekcja 2/I. Praca z powłoką Bash/3. Struktura katalogów.md",
+    "grafiki/2_02_24_var.png",
+    "grafiki/2_02_23_usrshare.png",
+    "grafiki/2_02_22_usrlocal.png",
+    "Pasted image 20230430131124.png.md",
+    "grafiki/2_02_23_var.png",
+    "grafiki/2_02_22_usrshare.png",
+    "grafiki/2_02_21_usrlocal.png",
+    "grafiki/2_02_20_usrbin.png",
+    "grafiki/2_02_19_usr.png",
+    "grafiki/2_02_var.png",
     "Lekcja 2/I. Praca z powłoką Bash/1. Schemat powłoki bash.md",
+    "Lekcja 2/I. Praca z powłoką Bash/2. Podstawowe polecenia powłoki bash.md",
+    "Lekcja 1/VI. Zadania rozdział II/2. Rozwiązania.md",
+    "Lekcja 1/VI. Zadania rozdział II/1. Zadania.md",
+    "Lekcja 1/VII. Korzystanie z pomocy - man/1. Omówienie polecenia man.md",
+    "Lekcja 1/VII. Korzystanie z pomocy - man/2. Omówienie polecenia info.md",
+    "Lekcja 1/V. Managery pakietów/7. Piekło zależności (Dependency hell).md",
+    "Lekcja 1/IV. Zadania rozdział I/1. Zadania.md",
+    "Lekcja 1/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
+    "Lekcja 1/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
+    "Lekcja 1/III. środowiska graficzne/3. XFCE.md",
+    "Lekcja 1/III. środowiska graficzne/7. DWM.md",
     "Lekcja 2/II. Struktura katalogów Linux",
     "Lekcja 2/1. Bash.md",
     "Lekcja 2/I. Praca z powłoką Bash",
-    "Lekcja 1/VII. Korzystanie z pomocy - man/2. Omówienie polecenia info.md",
     "Lekcja 2",
     "Lekcja 2/1. Bash",
-    "Lekcja 1/VII. Korzystanie z pomocy - man/1. Omówienie polecenia man.md",
-    "Lekcja 1/IV. Zadania rozdział I/1. Zadania.md",
-    "Lekcja 1/VI. Zadania rozdział II/2. Rozwiązania.md",
-    "Lekcja 1/VI. Zadania rozdział II/1. Zadania.md",
-    "Lekcja 1/III. środowiska graficzne/7. DWM.md",
     "Lekcja 1/IV. Zadania rozdział I",
     "Lekcja 1/III. środowiska graficzne/5. Mate.md",
     "Lekcja 1/V. Managery pakietów/2. Manager pakietów YUM.md",
-    "grafiki/1_04_8_1_aptvsrpm.png",
     "Lekcja 1/V. Managery pakietów/1. Zasada działania managera pakietów.md",
     "Lekcja 1/VI. Zadania rozdział II",
     "Lekcja 1/II. Podstawowa instalacja systemu Linux/3.2 Linux w chmurze.md",
@@ -245,27 +187,11 @@
     "Lekcja 1/II. Podstawowa instalacja systemu Linux/2. Dostępne platformy Linux - Dystrybucje.md",
     "Lekcja 1/V. Managery pakietów/6. Manager pakietów innych dystrybucji.md",
     "Lekcja 1/V. Managery pakietów/5. Manager pakietów DNF.md",
-    "Lekcja 1/V. Managery pakietów/7. Piekło zależności (Dependency hell).md",
-    "grafiki/1_03_02_KDE2.png",
     "Lekcja 1/III. środowiska graficzne/1. GNOME.md",
     "Lekcja 1/II. Podstawowa instalacja systemu Linux/5. Instalacja systemu.md",
     "Lekcja 1/VII. Korzystanie z pomocy - man",
-    "grafiki/1_04_6_1_packagemanagers.png",
-    "Lekcja 1/V. Managery pakietów/3. Manager pakietów RPM.md",
-    "grafiki/1_04_3_1_rpm.png",
-    "grafiki/1_04_3_1_rpm.png",
-    "grafiki/Screenshot_8.png",
-    "grafiki/1_04_4_2_clephell2.png",
     "grafiki/1_04_4_2_clephell2.png.crdownload",
-    "grafiki/Pasted image 20230424150208.png",
-    "grafiki/1_04_4_1_clephell.png",
-    "grafiki/1_04_02_1_packagemanager.png",
-    "Lekcja 1/III. środowiska graficzne/9. CLI vs GUI.md",
     "Lekcja 1/V. Managery pakietów",
-    "Lekcja1/IV. Managery pakietów.md",
-    "Lekcja 1/III. środowiska graficzne/8. Awsome Window manager.md",
-    "Lekcja1/III. środowiska graficzne/9. CLI vs GUI",
-    "Lekcja 1/III. środowiska graficzne/6. Desktop environment vs Windows manager.md",
-    "Lekcja 1/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md"
+    "Lekcja1/III. środowiska graficzne/9. CLI vs GUI"
   ]
 }
