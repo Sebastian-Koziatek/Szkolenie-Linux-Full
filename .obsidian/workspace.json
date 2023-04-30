@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "203d0faf26b01b6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lekcja 2/II. Edytory tekstu/1. Vi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lekcja 2/I. Praca z powłoką Bash/6. Hardlink vs Symlink.md",
+                "file": "Lekcja 2/II. Edytory tekstu/1. Vi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lekcja 2/I. Praca z powłoką Bash/6. Hardlink vs Symlink.md",
+                "file": "Lekcja 2/II. Edytory tekstu/1. Vi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lekcja 2/I. Praca z powłoką Bash/6. Hardlink vs Symlink.md"
+                "file": "Lekcja 2/II. Edytory tekstu/1. Vi.md"
               }
             }
           }
@@ -219,10 +231,12 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "04394065be70cde9",
+  "active": "203d0faf26b01b6d",
   "lastOpenFiles": [
-    "Lekcja 2/I. Praca z powłoką Bash/5. Zmienne środowiskowe.md",
     "Lekcja 2/I. Praca z powłoką Bash/6. Hardlink vs Symlink.md",
+    "Lekcja 2/II. Edytory tekstu/1. Vi.md",
+    "Lekcja 2/II. Edytory tekstu",
+    "Lekcja 2/I. Praca z powłoką Bash/5. Zmienne środowiskowe.md",
     "Lekcja 2/I. Praca z powłoką Bash/4.  Prompt.md",
     "Zadania/I. Wprowadzenie do systemu Linux/1. Zadania.md",
     "Zadania/IV. Prompt/Zadania.md",
@@ -264,8 +278,6 @@
     "Lekcja 1/III. środowiska graficzne/5. Mate.md",
     "Lekcja 1/IV. Managery pakietów/2. Manager pakietów YUM.md",
     "Lekcja 1/IV. Managery pakietów/1. Zasada działania managera pakietów.md",
-    "Zadania/II. Managery pakietów",
-    "Lekcja 1/II. Podstawowa instalacja systemu Linux/3.2 Linux w chmurze.md",
-    "Lekcja 1/V. Korzystanie z pomocy - man"
+    "Zadania/II. Managery pakietów"
   ]
 }
