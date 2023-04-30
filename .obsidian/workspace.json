@@ -18,8 +18,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba07ef93b129e75c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lekcja 1/V. Korzystanie z pomocy - man/1. Omówienie polecenia man.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7aa471d5434c3b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zadania/III. Praca na powłoce/1. Zadania.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd610e9f020a75e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zadania/III. Praca na powłoce/1. Zadania.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9c4c6b1e1348312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lekcja 2/I. Praca z powłoką Bash/4.  Prompt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d352f5d39d19673c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lekcja 2/I. Praca z powłoką Bash/5. Zmienne środowiskowe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3ce2a2d36d7d05a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lekcja 2/I. Praca z powłoką Bash/6. Hardlink vs Symlink.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -85,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lekcja 2/I. Praca z powłoką Bash/3. Struktura katalogów.md",
+                "file": "Lekcja 2/I. Praca z powłoką Bash/6. Hardlink vs Symlink.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lekcja 2/I. Praca z powłoką Bash/3. Struktura katalogów.md",
+                "file": "Lekcja 2/I. Praca z powłoką Bash/6. Hardlink vs Symlink.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lekcja 2/I. Praca z powłoką Bash/3. Struktura katalogów.md"
+                "file": "Lekcja 2/I. Praca z powłoką Bash/6. Hardlink vs Symlink.md"
               }
             }
           }
@@ -148,8 +221,23 @@
   },
   "active": "04394065be70cde9",
   "lastOpenFiles": [
-    "grafiki/2_02_20_usrbin 1.png",
+    "Lekcja 2/I. Praca z powłoką Bash/5. Zmienne środowiskowe.md",
+    "Lekcja 2/I. Praca z powłoką Bash/6. Hardlink vs Symlink.md",
+    "Lekcja 2/I. Praca z powłoką Bash/4.  Prompt.md",
+    "Zadania/I. Wprowadzenie do systemu Linux/1. Zadania.md",
+    "Zadania/IV. Prompt/Zadania.md",
+    "Zadania/IV. Prompt",
+    "Zadania/III. Praca na powłoce/1. Zadania.md",
+    "Zadania/III. Praca na powłoce/2. Rozwiązania.md",
+    "Lekcja 1/V. Korzystanie z pomocy - man/1. Omówienie polecenia man.md",
+    "Zadania/III. Praca na powłoce",
+    "Lekcja 1/V. Korzystanie z pomocy - man/2. Omówienie polecenia info.md",
+    "Zadania/II. Managery pakietów/1. Zadania.md",
+    "Lekcja 1/III. środowiska graficzne/9. CLI vs GUI.md",
+    "Zadania",
     "Lekcja 2/I. Praca z powłoką Bash/3. Struktura katalogów.md",
+    "grafiki/2_04_1_promt.png",
+    "grafiki/2_02_20_usrbin 1.png",
     "grafiki/2_02_24_var.png",
     "grafiki/2_02_23_usrshare.png",
     "grafiki/2_02_22_usrlocal.png",
@@ -159,15 +247,10 @@
     "grafiki/2_02_21_usrlocal.png",
     "grafiki/2_02_20_usrbin.png",
     "grafiki/2_02_19_usr.png",
-    "grafiki/2_02_var.png",
     "Lekcja 2/I. Praca z powłoką Bash/1. Schemat powłoki bash.md",
     "Lekcja 2/I. Praca z powłoką Bash/2. Podstawowe polecenia powłoki bash.md",
-    "Lekcja 1/VI. Zadania rozdział II/2. Rozwiązania.md",
-    "Lekcja 1/VI. Zadania rozdział II/1. Zadania.md",
-    "Lekcja 1/VII. Korzystanie z pomocy - man/1. Omówienie polecenia man.md",
-    "Lekcja 1/VII. Korzystanie z pomocy - man/2. Omówienie polecenia info.md",
-    "Lekcja 1/V. Managery pakietów/7. Piekło zależności (Dependency hell).md",
-    "Lekcja 1/IV. Zadania rozdział I/1. Zadania.md",
+    "Zadania/II. Managery pakietów/2. Rozwiązania.md",
+    "Lekcja 1/IV. Managery pakietów/7. Piekło zależności (Dependency hell).md",
     "Lekcja 1/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
     "Lekcja 1/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
     "Lekcja 1/III. środowiska graficzne/3. XFCE.md",
@@ -177,21 +260,12 @@
     "Lekcja 2/I. Praca z powłoką Bash",
     "Lekcja 2",
     "Lekcja 2/1. Bash",
-    "Lekcja 1/IV. Zadania rozdział I",
+    "Zadania/I. Wprowadzenie do systemu Linux",
     "Lekcja 1/III. środowiska graficzne/5. Mate.md",
-    "Lekcja 1/V. Managery pakietów/2. Manager pakietów YUM.md",
-    "Lekcja 1/V. Managery pakietów/1. Zasada działania managera pakietów.md",
-    "Lekcja 1/VI. Zadania rozdział II",
+    "Lekcja 1/IV. Managery pakietów/2. Manager pakietów YUM.md",
+    "Lekcja 1/IV. Managery pakietów/1. Zasada działania managera pakietów.md",
+    "Zadania/II. Managery pakietów",
     "Lekcja 1/II. Podstawowa instalacja systemu Linux/3.2 Linux w chmurze.md",
-    "Lekcja 1/II. Podstawowa instalacja systemu Linux/3. Wybór wersji systemu.md",
-    "Lekcja 1/II. Podstawowa instalacja systemu Linux/2. Dostępne platformy Linux - Dystrybucje.md",
-    "Lekcja 1/V. Managery pakietów/6. Manager pakietów innych dystrybucji.md",
-    "Lekcja 1/V. Managery pakietów/5. Manager pakietów DNF.md",
-    "Lekcja 1/III. środowiska graficzne/1. GNOME.md",
-    "Lekcja 1/II. Podstawowa instalacja systemu Linux/5. Instalacja systemu.md",
-    "Lekcja 1/VII. Korzystanie z pomocy - man",
-    "grafiki/1_04_4_2_clephell2.png.crdownload",
-    "Lekcja 1/V. Managery pakietów",
-    "Lekcja1/III. środowiska graficzne/9. CLI vs GUI"
+    "Lekcja 1/V. Korzystanie z pomocy - man"
   ]
 }
