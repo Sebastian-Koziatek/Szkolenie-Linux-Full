@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/8. mkpart.md",
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/1. Dyski w systemie Linux i katalog dev.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75b951faf41f443a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/9. Hotswap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/8. mkpart.md",
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/9. Hotswap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/8. mkpart.md",
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/9. Hotswap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/8. mkpart.md"
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/9. Hotswap.md"
               }
             }
           }
@@ -148,24 +161,26 @@
   },
   "active": "04394065be70cde9",
   "lastOpenFiles": [
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/1. Dyski w systemie Linux i katalog dev.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/9. Hotswap.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/8. mkpart.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami",
     "grafiki/2_03_8_mkpart.png",
-    "Lekcja 3 - Zarządzanie systemem Linux/8. mkpart.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/7. parted.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/7. parted.md",
     "grafiki/2_03_7_parted.png",
     "2_03_7_parted 1.png",
-    "Lekcja 3 - Zarządzanie systemem Linux/6. cfdisk.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/5. gparted.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/6. cfdisk.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/5. gparted.md",
     "grafiki/2_03_4_fdisk.png",
-    "Lekcja 3 - Zarządzanie systemem Linux/4. fdisk.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/3. Typy etykiet dysku - DOS.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/2. MBR vs GPT.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/4. fdisk.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/3. Typy etykiet dysku - DOS.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/2. MBR vs GPT.md",
     "grafiki/2_03_3_dostype.png",
     "grafiki/2_03_2_dosextend.png",
     "Lekcja 1 - Wprowadzenie do systemu/2_03_2_dosextend.png",
     "Lekcja 1 - Wprowadzenie do systemu/2_03_3_dostype.png",
     "grafiki/2_03_2_mbrvsgpt2.png",
     "grafiki/2_03_2_mbrvsgpt.png",
-    "Lekcja 3 - Zarządzanie systemem Linux/1. Zarządzanie dyskami w systemie linux.md",
     "Lekcja 2 - Podstawy pracy z systemem Linux/II. Edytory tekstu/1. Vi.md",
     "Lekcja 2 - Podstawy pracy z systemem Linux/II. Edytory tekstu/2. Nano.md",
     "Zadania/V. Edytory tekstu/1. Zadania.md",
@@ -191,7 +206,6 @@
     "Zadania",
     "Lekcja 2/II. Struktura katalogów Linux",
     "Lekcja 2 - Podstawy pracy z systemem Linux/I. Praca z powłoką Bash",
-    "Lekcja 2 - Podstawy pracy z systemem Linux",
-    "Lekcja 2/1. Bash"
+    "Lekcja 2 - Podstawy pracy z systemem Linux"
   ]
 }
