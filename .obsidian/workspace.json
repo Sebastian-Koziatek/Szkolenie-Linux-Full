@@ -13,13 +13,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/4. RAID2.md",
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/6. RAID4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb552424fcb87757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/7.  RAID5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a937af650c381cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/8. RAID6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1984b018bb2a14dc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "grafiki/3_2_1_raid5.png"
+              }
+            }
+          },
+          {
+            "id": "03ae1a41a2205a0e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "grafiki/3_2_1_raid5.png"
+              }
+            }
+          },
+          {
+            "id": "ccda2297092c2d5a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "grafiki/3_2_1_raid5_2.png"
+              }
+            }
+          },
+          {
+            "id": "b1e09454f176e745",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "grafiki/3_2_1_raid10_3.png"
+              }
+            }
+          },
+          {
+            "id": "802a39daeba0d0b7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "grafiki/3_2_1_raid10_3.png"
+              }
+            }
+          },
+          {
+            "id": "1d0e2f305e39758c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/10. RAID1+0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -93,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/4. RAID2.md",
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/10. RAID1+0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/4. RAID2.md",
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/10. RAID1+0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/4. RAID2.md"
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/10. RAID1+0.md"
               }
             }
           }
@@ -154,23 +241,32 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "75b951faf41f443a",
+  "active": "1d0e2f305e39758c",
   "lastOpenFiles": [
-    "grafiki/3_2_1_raid2.png",
+    "grafiki/3_2_1_raid10_2.png",
+    "grafiki/3_2_1_raid10_3.png",
+    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/10. RAID1+0.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/9. RAID0+1.md",
+    "grafiki/3_2_1_raid10_1.png",
+    "grafiki/3_2_1_raid0and1_3.png",
+    "grafiki/3_2_1_raid0and1_2.png.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/8. RAID6.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/5. RAID3.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/6. RAID4.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/7.  RAID5.md",
+    "grafiki/3_2_1_raid0and1_2.png",
+    "grafiki/3_2_1_raid0and1_1.png",
+    "grafiki/3_2_1_raid6.png",
+    "grafiki/3_2_1_raid5.png",
+    "grafiki/3_2_1_raid5_2.png",
     "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/4. RAID2.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/3. RAID1.md",
-    "README.md",
-    "Pasted image 20230504124014.png",
-    "Pasted image 20230504200228.png",
-    "Pasted image 20230504144310.png",
+    "9. RAID0+1",
+    "grafiki/3_2_1_raid4.png",
+    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/5. RAID i Sumy kontrolne 1.md",
     "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/1. Wprowadzenie.md",
+    "README.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/3. RAID1.md",
     "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/2. RAID0.md",
-    "grafiki/3_2_1_raid1.png",
-    "Pasted image 20230504201033.png",
-    "grafiki/3_2_1_raid01.png",
-    "grafiki/3_2_1_raid0_06.png",
-    "grafiki/3_2_1_raid0_04.png",
-    "grafiki/3_2_1_raid0_03.png",
     "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/8. mkpart.md",
     "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/9. Hotswap.md",
     "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/7. parted.md",
@@ -186,20 +282,11 @@
     "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/6. cfdisk.md",
     "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami",
     "Lekcja 2 - Podstawy pracy z systemem Linux/II. Edytory tekstu/1. Vi.md",
-    "Lekcja 2 - Podstawy pracy z systemem Linux/II. Edytory tekstu/2. Nano.md",
-    "Zadania/V. Edytory tekstu/1. Zadania.md",
-    "Zadania/V. Edytory tekstu/2. Rozwiązania.md",
-    "Lekcja 2 - Podstawy pracy z systemem Linux/I. Praca z powłoką Bash/4.  Prompt.md",
-    "Lekcja 2 - Podstawy pracy z systemem Linux/I. Praca z powłoką Bash/5. Zmienne środowiskowe.md",
-    "Zadania/IV. Prompt/Zadania.md",
     "Zadania/V. Edytory tekstu",
     "Lekcja 3 - Zarządzanie systemem Linux",
-    "grafiki/2_02_2_vi2.png.md",
-    "Lekcja 2 - Podstawy pracy z systemem Linux/I. Praca z powłoką Bash/6. Hardlink vs Symlink.md",
     "Lekcja 2 - Podstawy pracy z systemem Linux/II. Edytory tekstu",
     "Zadania/IV. Prompt",
     "Zadania/III. Praca na powłoce",
-    "Zadania",
-    "Lekcja 2/II. Struktura katalogów Linux"
+    "Zadania"
   ]
 }
