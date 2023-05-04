@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/1. Wprowadzenie.md",
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/2. RAID0.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/1. Wprowadzenie.md",
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/2. RAID0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/1. Wprowadzenie.md",
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/2. RAID0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/1. Wprowadzenie.md"
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/2. RAID0.md"
               }
             }
           }
@@ -231,8 +231,10 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "802a39daeba0d0b7",
+  "active": "04394065be70cde9",
   "lastOpenFiles": [
+    "grafiki/3_2_1_raid02.png",
+    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/1. Wprowadzenie.md",
     "Lekcja 3 - Zarządzanie systemem Linux/III. LVM/2. Przegląd i zarządzanie LVM.md",
     "Lekcja 3 - Zarządzanie systemem Linux/IV. System plików",
     "grafiki/3_3_2_LVM_managment_2.png",
@@ -260,7 +262,6 @@
     "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/4. RAID2.md",
     "9. RAID0+1",
     "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/5. RAID i Sumy kontrolne 1.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/1. Wprowadzenie.md",
     "README.md",
     "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/3. RAID1.md",
     "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/2. RAID0.md",
