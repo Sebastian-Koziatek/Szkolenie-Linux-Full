@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e313f71f0d2e6df2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/1. Dyski w systemie Linux i katalog dev.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "75b951faf41f443a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/9. Hotswap.md",
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/2. RAID0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/9. Hotswap.md",
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/2. RAID0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/9. Hotswap.md",
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/2. RAID0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/9. Hotswap.md"
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/2. RAID0.md"
               }
             }
           }
@@ -159,33 +146,39 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "04394065be70cde9",
+  "active": "75b951faf41f443a",
   "lastOpenFiles": [
-    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/1. Dyski w systemie Linux i katalog dev.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/3. RAID1.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/2. RAID0.md",
+    "Pasted image 20230504123545.png",
+    "Pasted image 20230504115132.png",
+    "Pasted image 20230504114204.png",
+    "Pasted image 20230504113442.png",
+    "Pasted image 20230504113032.png",
+    "Pasted image 20230504112349.png",
+    "Pasted image 20230504112156.png",
+    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/1. Wprowadzenie.md",
+    "Pasted image 20230504145134.png",
+    "Pasted image 20230504145046.png",
+    "Pasted image 20230504144310.png",
+    "README.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/III. LVM/1..md",
     "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/9. Hotswap.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID",
+    "Lekcja 3 - Zarządzanie systemem Linux/III. LVM",
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/1. Dyski w systemie Linux i katalog dev.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/2. MBR vs GPT.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/3. Typy etykiet dysku - DOS.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/4. fdisk.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/5. gparted.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/6. cfdisk.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/7. parted.md",
     "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/8. mkpart.md",
     "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami",
-    "grafiki/2_03_8_mkpart.png",
-    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/7. parted.md",
-    "grafiki/2_03_7_parted.png",
-    "2_03_7_parted 1.png",
-    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/6. cfdisk.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/5. gparted.md",
-    "grafiki/2_03_4_fdisk.png",
-    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/4. fdisk.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/3. Typy etykiet dysku - DOS.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/2. MBR vs GPT.md",
-    "grafiki/2_03_3_dostype.png",
-    "grafiki/2_03_2_dosextend.png",
-    "Lekcja 1 - Wprowadzenie do systemu/2_03_2_dosextend.png",
-    "Lekcja 1 - Wprowadzenie do systemu/2_03_3_dostype.png",
-    "grafiki/2_03_2_mbrvsgpt2.png",
-    "grafiki/2_03_2_mbrvsgpt.png",
     "Lekcja 2 - Podstawy pracy z systemem Linux/II. Edytory tekstu/1. Vi.md",
     "Lekcja 2 - Podstawy pracy z systemem Linux/II. Edytory tekstu/2. Nano.md",
     "Zadania/V. Edytory tekstu/1. Zadania.md",
     "Zadania/V. Edytory tekstu/2. Rozwiązania.md",
-    "README.md",
     "Lekcja 2 - Podstawy pracy z systemem Linux/I. Praca z powłoką Bash/4.  Prompt.md",
     "Lekcja 2 - Podstawy pracy z systemem Linux/I. Praca z powłoką Bash/5. Zmienne środowiskowe.md",
     "Zadania/IV. Prompt/Zadania.md",
@@ -195,17 +188,10 @@
     "Lekcja 2 - Podstawy pracy z systemem Linux/I. Praca z powłoką Bash/6. Hardlink vs Symlink.md",
     "Zadania/III. Praca na powłoce/1. Zadania.md",
     "Zadania/III. Praca na powłoce/2. Rozwiązania.md",
-    "Lekcja 2 - Podstawy pracy z systemem Linux/I. Praca z powłoką Bash/3. Struktura katalogów.md",
     "Lekcja 2 - Podstawy pracy z systemem Linux/II. Edytory tekstu",
-    "Zadania/I. Wprowadzenie do systemu Linux/1. Zadania.md",
     "Zadania/IV. Prompt",
-    "Lekcja 1 - Wprowadzenie do systemu/V. Korzystanie z pomocy - man/1. Omówienie polecenia man.md",
     "Zadania/III. Praca na powłoce",
-    "Lekcja 1 - Wprowadzenie do systemu/V. Korzystanie z pomocy - man/2. Omówienie polecenia info.md",
-    "Zadania/II. Managery pakietów/1. Zadania.md",
     "Zadania",
-    "Lekcja 2/II. Struktura katalogów Linux",
-    "Lekcja 2 - Podstawy pracy z systemem Linux/I. Praca z powłoką Bash",
-    "Lekcja 2 - Podstawy pracy z systemem Linux"
+    "Lekcja 2/II. Struktura katalogów Linux"
   ]
 }
