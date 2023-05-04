@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/2. RAID0.md",
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/4. RAID2.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "3835197b474b48b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/2. RAID0.md",
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/4. RAID2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/2. RAID0.md",
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/4. RAID2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/2. RAID0.md"
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/4. RAID2.md"
               }
             }
           }
@@ -148,22 +156,26 @@
   },
   "active": "75b951faf41f443a",
   "lastOpenFiles": [
+    "grafiki/3_2_1_raid2.png",
+    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/4. RAID2.md",
     "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/3. RAID1.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/2. RAID0.md",
-    "Pasted image 20230504123545.png",
-    "Pasted image 20230504115132.png",
-    "Pasted image 20230504114204.png",
-    "Pasted image 20230504113442.png",
-    "Pasted image 20230504113032.png",
-    "Pasted image 20230504112349.png",
-    "Pasted image 20230504112156.png",
-    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/1. Wprowadzenie.md",
-    "Pasted image 20230504145134.png",
-    "Pasted image 20230504145046.png",
-    "Pasted image 20230504144310.png",
     "README.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/III. LVM/1..md",
+    "Pasted image 20230504124014.png",
+    "Pasted image 20230504200228.png",
+    "Pasted image 20230504144310.png",
+    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/1. Wprowadzenie.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/2. RAID0.md",
+    "grafiki/3_2_1_raid1.png",
+    "Pasted image 20230504201033.png",
+    "grafiki/3_2_1_raid01.png",
+    "grafiki/3_2_1_raid0_06.png",
+    "grafiki/3_2_1_raid0_04.png",
+    "grafiki/3_2_1_raid0_03.png",
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/8. mkpart.md",
     "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/9. Hotswap.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/7. parted.md",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/I. Praca z powłoką Bash/1. Schemat powłoki bash.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/III. LVM/1..md",
     "Lekcja 3 - Zarządzanie systemem Linux/II. RAID",
     "Lekcja 3 - Zarządzanie systemem Linux/III. LVM",
     "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/1. Dyski w systemie Linux i katalog dev.md",
@@ -172,8 +184,6 @@
     "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/4. fdisk.md",
     "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/5. gparted.md",
     "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/6. cfdisk.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/7. parted.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/8. mkpart.md",
     "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami",
     "Lekcja 2 - Podstawy pracy z systemem Linux/II. Edytory tekstu/1. Vi.md",
     "Lekcja 2 - Podstawy pracy z systemem Linux/II. Edytory tekstu/2. Nano.md",
@@ -186,8 +196,6 @@
     "Lekcja 3 - Zarządzanie systemem Linux",
     "grafiki/2_02_2_vi2.png.md",
     "Lekcja 2 - Podstawy pracy z systemem Linux/I. Praca z powłoką Bash/6. Hardlink vs Symlink.md",
-    "Zadania/III. Praca na powłoce/1. Zadania.md",
-    "Zadania/III. Praca na powłoce/2. Rozwiązania.md",
     "Lekcja 2 - Podstawy pracy z systemem Linux/II. Edytory tekstu",
     "Zadania/IV. Prompt",
     "Zadania/III. Praca na powłoce",
