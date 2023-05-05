@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/3. Zarządzanie użytkownikami.md",
+                "file": "Zadania/VIII. Zarządzanie użytkownikami/2. Rozwiązania.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/3. Zarządzanie użytkownikami.md",
+                "file": "Zadania/VIII. Zarządzanie użytkownikami/2. Rozwiązania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/3. Zarządzanie użytkownikami.md",
+                "file": "Zadania/VIII. Zarządzanie użytkownikami/2. Rozwiązania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/3. Zarządzanie użytkownikami.md"
+                "file": "Zadania/VIII. Zarządzanie użytkownikami/2. Rozwiązania.md"
               }
             }
           }
@@ -156,8 +156,11 @@
   },
   "active": "fb87e6d986b74429",
   "lastOpenFiles": [
-    "Lekcja 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/2. Uprawieniania plików i folderów.md",
+    "Zadania/VIII. Zarządzanie użytkownikami/1. Zadania.md",
+    "Zadania/VIII. Zarządzanie użytkownikami/2. Rozwiązania.md",
     "Lekcja 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/3. Zarządzanie użytkownikami.md",
+    "Zadania/VIII. Zarządzanie użytkownikami",
+    "Lekcja 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/2. Uprawieniania plików i folderów.md",
     "Lekcja 3 - Zarządzanie systemem Linux/IV. System plików/8. System plików ZFS.md",
     "grafiki/3_5_1_chown.png",
     "grafiki/3_5_1_chmod2.png",
@@ -192,14 +195,12 @@
     "Zadania/IV. Aliasy/2. Rozwiązania.md",
     "Zadania/IV. Aliasy",
     "Zadania/III. Praca na powłoce/1. Zadania.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/Untitled 1.md",
     "Lekcja 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu",
     "Lekcja 3 - Zarządzanie systemem Linux/IV. System plików/Untitled",
     "Lekcja 3 - Zarządzanie systemem Linux/IV. System plików",
     "Zadania/VII. LVM",
     "9. RAID0+1",
     "Lekcja 3 - Zarządzanie systemem Linux/II. RAID",
-    "Lekcja 3 - Zarządzanie systemem Linux/III. LVM",
-    "Lekcja 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami"
+    "Lekcja 3 - Zarządzanie systemem Linux/III. LVM"
   ]
 }
