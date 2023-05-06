@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu/2. Komenda locate.md",
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/1. ifconfig.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dd54f53723b70bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/5. Graficzne konfiguratory sieci.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa0565eb18b4d630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/7. nmtui.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1c934f56ef65f5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE/5..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu/2. Komenda locate.md",
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE/5..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu/2. Komenda locate.md",
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE/5..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu/2. Komenda locate.md"
+                "file": "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE/5..md"
               }
             }
           }
@@ -154,10 +191,41 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "8f6a43d39c74211d",
+  "active": "c1c934f56ef65f5b",
   "lastOpenFiles": [
-    "Lekcja 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu/1. Komenda find.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE/4. Składnia i opcje.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE/5..md",
+    "Pasted image 20230506204952.png",
+    "Pasted image 20230506204306.png",
+    "Pasted image 20230506203948.png",
+    "Pasted image 20230506204234.png",
+    "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE/3. Targets.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE/2. Tables and chains.md",
+    "Pasted image 20230506204001.png",
+    "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE/1. Wprowadzenie.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/10. Plik hosts.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE",
+    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/9. nmap.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/8. Metody testowania sieci.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/7. nmtui.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/8, Metod",
+    "Pasted image 20230506184304.png",
+    "Pasted image 20230506184245.png",
+    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/6. Pliki konfiguracyjne połączeń sieciowych.md",
+    "Pasted image 20230506183835.png",
+    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/5. Graficzne konfiguratory sieci.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/Untitled",
+    "Pasted image 20230506183716.png",
+    "Pasted image 20230506183632.png",
+    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/4. Route.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/3. Różnice między ipconfig a IP.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/2. pakiet IP.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/1. ifconfig.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/2.",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Uprawnienia i konta administracyjne/3. su.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci",
     "Lekcja 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu/2. Komenda locate.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu/1. Komenda find.md",
     "Lekcja 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu.md",
     "Lekcja 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu",
     "Lekcja 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu 1.md",
@@ -167,40 +235,9 @@
     "Lekcja 2 - Podstawy pracy z systemem Linux/III. SSH/1. Wprowadzenie.md",
     "Lekcja 2 - Podstawy pracy z systemem Linux/III. SSH/3. Putty.md",
     "Lekcja 2 - Podstawy pracy z systemem Linux/III. SSH/4. Konfiguracja serwera.md",
-    "Lekcja 2 - Podstawy pracy z systemem Linux/III. SSH/5. Konfiguracja klienta.md",
-    "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Uprawnienia i konta administracyjne/2. Sudo.md",
-    "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Uprawnienia i konta administracyjne/3. su.md",
-    "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Uprawnienia i konta administracyjne/1. Konto root.md",
-    "grafiki/2_4_2_sudo.png",
-    "grafiki/2_3_3_putty.png",
-    "grafiki/2_3_1_ssh.png",
-    "Lekcja 1 - Wprowadzenie do systemu/IV. Managery pakietów/1. Zasada działania managera pakietów.md",
     "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Uprawnienia i konta administracyjne",
-    "Lekcja 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/4. Zarządzanie grupami użytkowników.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/3. Zarządzanie użytkownikami.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/5. Polecenie cat.md",
     "Lekcja 2 - Podstawy pracy z systemem Linux/III. SSH",
-    "Pasted image 20230506104851.png",
-    "Lekcja 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/6. Less, tail, more.md",
-    "Pasted image 20230506104836.png",
-    "Lekcja 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/2. Uprawieniania plików i folderów.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/1. Plik fstab.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/II. RAID/1. Wprowadzenie.md",
-    "Lekcja 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
-    "Lekcja 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
-    "Lekcja 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/IV. System plików/5. Różnice pomiędzy systemami plików EXT.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/IV. System plików/6. System plików XFS.md",
     "Zadania/VIII. Zarządzanie użytkownikami",
-    "grafiki/3_5_1_chown.png",
-    "grafiki/3_5_1_chmod2.png",
-    "grafiki/3_5_1_chmod.png",
-    "grafiki/3_5_1_fstab.png",
-    "Zadania/VI. Symlink i hardlink",
-    "Zadania/IV. Aliasy",
-    "Lekcja 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu",
-    "Lekcja 3 - Zarządzanie systemem Linux/IV. System plików/Untitled",
-    "Lekcja 3 - Zarządzanie systemem Linux/IV. System plików",
-    "Zadania/VII. LVM"
+    "Zadania/VI. Symlink i hardlink"
   ]
 }
