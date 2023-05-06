@@ -1,0 +1,107 @@
+***Komenda find***
+
+Komenda find  jest narzędziem wiersza poleceń służącym do przeglądania hierarchii plików. Może służyć do wyszukiwania plików i katalogów oraz wykonywania na nich kolejnych operacji. Obsługuje wyszukiwanie według pliku, folderu, nazwy, daty utworzenia, daty modyfikacji, właściciela i uprawnień. Za pomocą „-exec” inne polecenia systemu UNIX mogą być wykonywane na znalezionych plikach lub folderach.
+___
+***Przykłady użycia***
+
+1. Znajdź wszystkie pliki o nazwie test.txt w bieżącym katalogu roboczym.
+```
+find . -name test.txt
+```
+
+2. Znajdź wszystkie pliki w katalogu /home o nazwie test.txt
+```
+find /home -name test.txt
+```
+
+3. Znajdź wszystkie pliki o nazwie test.txt i zawierające duże i małe litery w katalogu /home.
+```
+find /home -iname test.txt
+```
+
+4. Znajdź wszystkie katalogi, których nazwa to test w katalogu /.
+```
+find / -type d -name test
+```
+
+5. Znajdź wszystkie pliki php o nazwie test.php w bieżącym katalogu roboczym.
+```
+find . -type f -name test.php
+```
+
+6. Znajdź wszystkie pliki php w katalogu.
+```
+find . -type f -name "*.php"
+```
+
+7. Znajdź wszystkie pliki, których uprawnienia to 777.
+```
+find . -type f -perm 0777 -print
+```
+
+8. Znajdź wszystkie pliki bez uprawnień 777.
+```
+find / -type f ! -perm 777
+```
+
+9. Znajdź wszystkie pliki bitowe SGID, których uprawnienia są ustawione na 644.
+```
+find / -perm 2644
+```
+
+10. Znajdź wszystkie pliki zestawu Sticky Bit z uprawnieniami 551.
+```
+find / -perm 1551
+```
+
+11. Znajdź wszystkie pliki tylko do odczytu.
+```
+find / -perm /u=r
+```
+
+12. Znajdź wszystkie wykonywalne pliki.
+```
+find / -perm /a=x
+```
+
+13. Znajdź wszystkie pliki uprawnień 777 i użyj polecenia chmod, aby ustawić uprawnienia na 644.
+```
+find / -type f -perm 0777 -print -exec chmod 644 {} \;
+```
+
+14. Znajdź wszystkie katalogi uprawnień 777 i użyj polecenia chmod, aby ustawić uprawnienia na 755.
+```
+find / -type d -perm 777 -print -exec chmod 755 {} \;
+```
+
+15. Aby znaleźć pojedynczy plik o nazwie test.txt i usunąć go.
+```
+find . -type f -name "test.txt" -exec rm -f {} \;
+```
+
+16. Aby znaleźć i usunąć wiele plików, takich jak .txt,
+```
+find . -type f -name "*.txt" -exec rm -f {} \;
+```
+
+17. Znajdź wszystkie puste katalogi
+```
+find /tmp -type d -empty
+```
+
+18. Aby znaleźć wszystkie ukryte pliki, użyj poniższego polecenia.
+```
+find /tmp -type f -name ".*"
+```
+___
+***Komenda locate***
+Polecenie locate znajduje pliki w systemie Linux przy użyciu nazwy pliku. *Locate* służy do uzyskiwania natychmiastowych wyników i jest niezbędnym narzędziem, gdy szybkość jest priorytetem.
+
+Polecenie wykonuje wyszukiwanie przy użyciu bazy danych zawierającej bity plików z odpowiednimi ścieżkami w systemie, *locate* jednaknie sprawdza plików poza bazą danych, co oznacza, że nie raportuje o plikach utworzonych po ostatniej aktualizacji bazy danych.
+
+Używanie na CentOS Stream:
+```
+sudo yum install mlocate 
+sudo updatedb
+```
+
