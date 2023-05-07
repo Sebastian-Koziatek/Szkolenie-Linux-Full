@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE/6. Firewalld.md",
+                "file": "Lekcja 2 - Podstawy pracy z systemem Linux/VII. Deamony/5. OpenRC.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE/6. Firewalld.md",
+                "file": "Lekcja 2 - Podstawy pracy z systemem Linux/VII. Deamony/5. OpenRC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE/6. Firewalld.md",
+                "file": "Lekcja 2 - Podstawy pracy z systemem Linux/VII. Deamony/5. OpenRC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE/6. Firewalld.md"
+                "file": "Lekcja 2 - Podstawy pracy z systemem Linux/VII. Deamony/5. OpenRC.md"
               }
             }
           }
@@ -181,8 +181,29 @@
   },
   "active": "aa0565eb18b4d630",
   "lastOpenFiles": [
-    "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE/5. Scenariusz.md",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/VII. Deamony/4. Tworzenie pliku serwisu.md",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/VII. Deamony/5. OpenRC.md",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/VII. Deamony/3. Systemctl.md",
+    "Pasted image 20230507203356.png",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/VII. Deamony/2. Przykłady deamonów.md",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/VII. Deamony/1. Czym są deamony w Linuksie?.md",
+    "Pasted image 20230507203020.png",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/8. Runlevel programs.md",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/VII. Deamony",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/7. Runlevels.md",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/6. Init.md",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/5. KERNEL.md",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/4. GRUB.md",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/2. BIOS.md",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/3. MBR.md",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/1. Etapy startowania systemu.md",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/V. GRUB/2. Konfiguracja.md",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/Untitled",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/V. GRUB/1. Wprowadzenie.md",
+    "Lekcja 2 - Podstawy pracy z systemem Linux/V. GRUB",
     "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE/6. Firewalld.md",
+    "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE/5. Scenariusz.md",
     "grafiki/3_9_1_scenariusz1.png",
     "grafiki/3_8_6_firewalld.png",
     "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE/4. Składnia i opcje.md",
@@ -197,34 +218,14 @@
     "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/10. Plik hosts.md",
     "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/9. nmap.md",
     "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/7. nmtui.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/8. Metody testowania sieci.md",
     "grafiki/3_8_2_iptables1.png",
     "grafiki/3_6_7_nmuti1.png",
-    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/5. Graficzne konfiguratory sieci.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/4. Route.md",
     "grafiki/3_6_7_nmuti2.png",
-    "grafiki/3_6_5_ifcfg_keyfile.png",
-    "grafiki/3_6_5_gnome.png.md",
-    "grafiki/3_6_5_gnome.png",
-    "Lekcja 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/1. Plik fstab.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu/1. Komenda find.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu/2. Komenda locate.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/1. ifconfig.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/2. pakiet IP.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/3. Różnice między ipconfig a IP.md",
     "Lekcja 3 - Zarządzanie systemem Linux/VIII. IPTABLE",
     "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/8, Metod",
     "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/Untitled",
     "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/2.",
-    "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Uprawnienia i konta administracyjne/3. su.md",
     "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci",
-    "Lekcja 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu.md",
-    "Lekcja 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu",
-    "Lekcja 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu 1.md",
-    "Lekcja 1 - Wprowadzenie do systemu/V. Korzystanie z pomocy w systemie/1. Omówienie polecenia man.md",
-    "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Uprawnienia i konta administracyjne",
-    "Lekcja 2 - Podstawy pracy z systemem Linux/III. SSH",
-    "Zadania/VIII. Zarządzanie użytkownikami",
-    "Zadania/VI. Symlink i hardlink"
+    "Lekcja 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu"
   ]
 }
