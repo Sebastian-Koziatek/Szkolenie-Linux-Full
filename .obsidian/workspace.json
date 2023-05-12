@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8fdd94ef4819ce87",
+        "id": "c129095423ef6748",
         "type": "tabs",
         "children": [
           {
-            "id": "8f6a43d39c74211d",
+            "id": "bb62e6122aac92c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/1. ifconfig.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dd54f53723b70bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/5. Graficzne konfiguratory sieci.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa0565eb18b4d630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dział 2 - Podstawy pracy z systemem Linux/VII. Deamony/4. Tworzenie pliku serwisu.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dział 2 - Podstawy pracy z systemem Linux/VII. Deamony/4. Tworzenie pliku serwisu.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dział 2 - Podstawy pracy z systemem Linux/VII. Deamony/4. Tworzenie pliku serwisu.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dział 2 - Podstawy pracy z systemem Linux/VII. Deamony/4. Tworzenie pliku serwisu.md"
+                "file": "README.md"
               }
             }
           }
@@ -179,10 +154,24 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "aa0565eb18b4d630",
+  "active": "bb62e6122aac92c0",
   "lastOpenFiles": [
-    "Dział 2 - Podstawy pracy z systemem Linux/VII. Deamony/3. Systemctl.md",
+    "Zadania/9. Zarządzanie użytkownikami/II. Rozwiązania.md",
+    "Zadania/9. Zarządzanie użytkownikami/I. Zadania.md",
+    "Zadania/10. Instalacja Arch Linux/I. Zadania.md",
+    "Zadania/8. LVM/II. Rozwiązania.md",
+    "Zadania/7. Symlink i hardlink/II. Rozwiązania.md",
+    "Zadania/5. Prompt/I. Zadania.md",
+    "Zadania/4. Aliasy/I. Zadania.md",
+    "Zadania/3. Praca na powłoce/II. Rozwiązania.md",
+    "Zadania/2. Managery pakietów/II. Rozwiązania.md",
+    "Zadania/2. Managery pakietów/I. Zadania.md",
+    "Zadania/1. Wprowadzenie do systemu Linux/Zadania.md",
+    "Zadania/10. Instalacja Arch Linux",
+    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/1. ifconfig.md",
+    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/5. Graficzne konfiguratory sieci.md",
     "Dział 2 - Podstawy pracy z systemem Linux/VII. Deamony/4. Tworzenie pliku serwisu.md",
+    "Dział 2 - Podstawy pracy z systemem Linux/VII. Deamony/3. Systemctl.md",
     "Dział 2 - Podstawy pracy z systemem Linux/VII. Deamony/5. OpenRC.md",
     "Dział 2 - Podstawy pracy z systemem Linux/VII. Deamony/1. Deamony w Linuksie.md",
     "Dział 2 - Podstawy pracy z systemem Linux/VII. Deamony/2. Przykłady deamonów.md",
@@ -196,24 +185,12 @@
     "Dział 2 - Podstawy pracy z systemem Linux/V. GRUB/1. Wprowadzenie.md",
     "Dział 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/8. Runlevel programs.md",
     "Dział 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/6. Init.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/5. KERNEL.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/4. GRUB.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/3. MBR.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/2. BIOS.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/1. Etapy startowania systemu.md",
-    "Lekcja 2 - Podstawy pracy z systemem Linux/VII. Deamony/1. Czym są deamony w Linuksie?.md",
     "Dział 2 - Podstawy pracy z systemem Linux/VII. Deamony",
-    "Dział 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/7. Runlevels.md",
     "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/Untitled",
     "Dział 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu",
     "Dział 2 - Podstawy pracy z systemem Linux/V. GRUB",
-    "Dział 3 - Zarządzanie systemem Linux/VIII. IPTABLE/6. Firewalld.md",
-    "Dział 3 - Zarządzanie systemem Linux/VIII. IPTABLE/5. Scenariusz.md",
     "grafiki/3_9_1_scenariusz1.png",
     "grafiki/3_8_6_firewalld.png",
-    "Dział 3 - Zarządzanie systemem Linux/VIII. IPTABLE/4. Składnia i opcje.md",
-    "Dział 3 - Zarządzanie systemem Linux/VIII. IPTABLE/3. Targets.md",
-    "Dział 3 - Zarządzanie systemem Linux/VIII. IPTABLE/2. Tables and chains.md",
     "Pasted image 20230506231540.png",
     "grafiki/3_8_2_iptables2.png",
     "grafiki/3_8_2_iptables3.png",
@@ -224,7 +201,6 @@
     "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/8, Metod",
     "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/Untitled",
     "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/2.",
-    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci",
-    "Dział 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu"
+    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci"
   ]
 }
