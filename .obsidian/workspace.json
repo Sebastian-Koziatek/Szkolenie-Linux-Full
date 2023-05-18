@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c129095423ef6748",
+        "id": "4b0e99bb0f070860",
         "type": "tabs",
         "children": [
           {
-            "id": "bb62e6122aac92c0",
+            "id": "9da6faf53e1fab4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/1. Zasada działania managera pakietów.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/1. Zasada działania managera pakietów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/1. Zasada działania managera pakietów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/1. Zasada działania managera pakietów.md"
               }
             }
           }
@@ -156,35 +156,36 @@
   },
   "active": "04394065be70cde9",
   "lastOpenFiles": [
-    "Zadania/9. Zarządzanie użytkownikami/II. Rozwiązania.md",
-    "Zadania/9. Zarządzanie użytkownikami/I. Zadania.md",
-    "Zadania/10. Instalacja Arch Linux/I. Zadania.md",
+    "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/Bez nazwy",
     "Zadania/8. LVM/II. Rozwiązania.md",
-    "Zadania/7. Symlink i hardlink/II. Rozwiązania.md",
-    "Zadania/5. Prompt/I. Zadania.md",
-    "Zadania/4. Aliasy/I. Zadania.md",
-    "Zadania/3. Praca na powłoce/II. Rozwiązania.md",
-    "Zadania/2. Managery pakietów/II. Rozwiązania.md",
-    "Zadania/2. Managery pakietów/I. Zadania.md",
+    "Zadania/8. LVM/I. Zadania.md",
+    "Dział 3 - Zarządzanie systemem Linux/IV. System plików/8. System plików ZFS.md",
+    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/2. Dostępne platformy Linux - Dystrybucje.md",
+    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/1. Wybór nośnika instalacji.md",
+    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/4. Tworzenie maszyny wirtualnej.md",
+    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/3.1 RHEL vs CentOS vs CentOS Stream vs ...md",
+    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/3. Wybór wersji systemu.md",
+    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
+    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
+    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
     "Zadania/1. Wprowadzenie do systemu Linux/Zadania.md",
+    "Dział 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/2. Uprawieniania plików i folderów.md",
+    "Dział 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/1. Plik fstab.md",
+    "Dział 3 - Zarządzanie systemem Linux/IV. System plików/5. Różnice pomiędzy systemami plików EXT.md",
+    "Dział 3 - Zarządzanie systemem Linux/IV. System plików/6. System plików XFS.md",
+    "Dział 3 - Zarządzanie systemem Linux/IV. System plików/4. System plików EXT4.md",
+    "Dział 3 - Zarządzanie systemem Linux/IV. System plików/3. System plików EXT3.md",
+    "Dział 3 - Zarządzanie systemem Linux/IV. System plików/2. System plików EXT2.md",
+    "Dział 3 - Zarządzanie systemem Linux/IV. System plików/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/III. LVM/2. Przegląd i zarządzanie LVM.md",
+    "Dział 3 - Zarządzanie systemem Linux/III. LVM/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/9. Hotswap.md",
+    "Dział 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/8. mkpart.md",
+    "Dział 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/7. parted.md",
+    "Dział 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/6. cfdisk.md",
     "Zadania/10. Instalacja Arch Linux",
-    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/1. ifconfig.md",
-    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/5. Graficzne konfiguratory sieci.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/VII. Deamony/4. Tworzenie pliku serwisu.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/VII. Deamony/3. Systemctl.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/VII. Deamony/5. OpenRC.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/VII. Deamony/1. Deamony w Linuksie.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/VII. Deamony/2. Przykłady deamonów.md",
     "grafiki/2_4_1_daemony.png",
     "grafiki/2_4_1_daemony2.png",
-    "Dział 2 - Podstawy pracy z systemem Linux/II. Edytory tekstu/1. Vi.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/IV. Uprawnienia i konta administracyjne/1. Konto root.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/IV. Uprawnienia i konta administracyjne/3. su.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/IV. Uprawnienia i konta administracyjne/2. Sudo.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/V. GRUB/2. Konfiguracja.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/V. GRUB/1. Wprowadzenie.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/8. Runlevel programs.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/6. Init.md",
     "Dział 2 - Podstawy pracy z systemem Linux/VII. Deamony",
     "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/Untitled",
     "Dział 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu",
@@ -196,7 +197,6 @@
     "grafiki/3_8_2_iptables3.png",
     "grafiki/3_8_2_iptables1.png",
     "grafiki/3_6_7_nmuti1.png",
-    "grafiki/3_6_7_nmuti2.png",
     "Dział 3 - Zarządzanie systemem Linux/VIII. IPTABLE",
     "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/8, Metod",
     "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/Untitled",
