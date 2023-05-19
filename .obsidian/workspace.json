@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4b0e99bb0f070860",
+        "id": "7e40039352a9ccb0",
         "type": "tabs",
         "children": [
           {
-            "id": "9da6faf53e1fab4f",
+            "id": "54ce4d3923152520",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/1. Zasada działania managera pakietów.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/1. Zasada działania managera pakietów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/1. Zasada działania managera pakietów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/1. Zasada działania managera pakietów.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,35 +146,39 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "04394065be70cde9",
+  "active": "54ce4d3923152520",
   "lastOpenFiles": [
-    "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/Bez nazwy",
-    "Zadania/8. LVM/II. Rozwiązania.md",
-    "Zadania/8. LVM/I. Zadania.md",
-    "Dział 3 - Zarządzanie systemem Linux/IV. System plików/8. System plików ZFS.md",
-    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/2. Dostępne platformy Linux - Dystrybucje.md",
-    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/1. Wybór nośnika instalacji.md",
+    "Dział 3 - Zarządzanie systemem Linux/VIII. SELINUX/3. Najważniejsze polecenia.md",
+    "Dział 3 - Zarządzanie systemem Linux/VIII. SELINUX/2. Metody i tryby działania.md",
+    "Dział 3 - Zarządzanie systemem Linux/VIII. SELINUX/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/VIII. IPTABLE/2. Tables and chains.md",
+    "Dział 3 - Zarządzanie systemem Linux/VIII. IPTABLE/1. Wprowadzenie.md",
+    "Zadania/1. Wprowadzenie do systemu Linux/Zadania.md",
+    "Zadania/10. Instalacja Arch Linux/I. Zadania.md",
+    "Dział 1 - Wprowadzenie do systemu/III. środowiska graficzne/1. GNOME.md",
+    "Dział 1 - Wprowadzenie do systemu/III. środowiska graficzne/5. Mate.md",
+    "Dział 1 - Wprowadzenie do systemu/III. środowiska graficzne/7. DWM.md",
+    "Dział 1 - Wprowadzenie do systemu/III. środowiska graficzne/8. Awsome Window manager.md",
+    "Dział 1 - Wprowadzenie do systemu/III. środowiska graficzne/9. CLI vs GUI.md",
+    "Dział 1 - Wprowadzenie do systemu/III. środowiska graficzne/6. Desktop environment vs Windows manager.md",
+    "Dział 1 - Wprowadzenie do systemu/III. środowiska graficzne/4. Cinnamon.md",
+    "Dział 1 - Wprowadzenie do systemu/III. środowiska graficzne/3. XFCE.md",
+    "Dział 1 - Wprowadzenie do systemu/III. środowiska graficzne/2. KDE.md",
+    "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/5. Manager pakietów DNF.md",
+    "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/3. Manager pakietów RPM.md",
+    "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/2. Manager pakietów YUM.md",
+    "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/1. Zasada działania managera pakietów.md",
+    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/6. Linux SWAP vs NO SWAP.md",
+    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/5. Instalacja systemu.md",
     "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/4. Tworzenie maszyny wirtualnej.md",
+    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/3.2 Linux w chmurze.md",
     "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/3.1 RHEL vs CentOS vs CentOS Stream vs ...md",
     "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/3. Wybór wersji systemu.md",
-    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
     "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
-    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
-    "Zadania/1. Wprowadzenie do systemu Linux/Zadania.md",
-    "Dział 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/2. Uprawieniania plików i folderów.md",
-    "Dział 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/1. Plik fstab.md",
-    "Dział 3 - Zarządzanie systemem Linux/IV. System plików/5. Różnice pomiędzy systemami plików EXT.md",
-    "Dział 3 - Zarządzanie systemem Linux/IV. System plików/6. System plików XFS.md",
-    "Dział 3 - Zarządzanie systemem Linux/IV. System plików/4. System plików EXT4.md",
-    "Dział 3 - Zarządzanie systemem Linux/IV. System plików/3. System plików EXT3.md",
-    "Dział 3 - Zarządzanie systemem Linux/IV. System plików/2. System plików EXT2.md",
-    "Dział 3 - Zarządzanie systemem Linux/IV. System plików/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/III. LVM/2. Przegląd i zarządzanie LVM.md",
-    "Dział 3 - Zarządzanie systemem Linux/III. LVM/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/9. Hotswap.md",
-    "Dział 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/8. mkpart.md",
-    "Dział 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/7. parted.md",
-    "Dział 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/6. cfdisk.md",
+    "grafiki/3_8_1_SELINUX2.png",
+    "grafiki/3_8_1_SELINUX.png",
+    "Dział 3 - Zarządzanie systemem Linux/VIII. SELINUX",
+    "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/Bez nazwy",
     "Zadania/10. Instalacja Arch Linux",
     "grafiki/2_4_1_daemony.png",
     "grafiki/2_4_1_daemony2.png",
@@ -195,12 +191,8 @@
     "Pasted image 20230506231540.png",
     "grafiki/3_8_2_iptables2.png",
     "grafiki/3_8_2_iptables3.png",
-    "grafiki/3_8_2_iptables1.png",
-    "grafiki/3_6_7_nmuti1.png",
     "Dział 3 - Zarządzanie systemem Linux/VIII. IPTABLE",
     "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/8, Metod",
-    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/Untitled",
-    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/2.",
-    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci"
+    "Lekcja 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/Untitled"
   ]
 }
