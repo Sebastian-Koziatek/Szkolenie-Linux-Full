@@ -20,6 +20,7 @@ mkswap /dev/sda2
 mount /dev/sda3 /mnt
 mkdir /mnt/boot
 mount /dev/sda1 /mnt/boot
+swapon /dev/sda2
 ```
 
 5. Zweryfikuj zamontowane dyski
@@ -39,7 +40,7 @@ sda      8:0    0    30G  0 disk
 pacstrap -K /mnt base base-devel linux linux-firmware
 ```
 
-7. Za pomocą polecenie genfstab wygeneruj plik konfiguracjny dysku /mnt/etc/fstab
+7. Za pomocą polecenie genfstab wygeneruj plik konfiguracjny dysku /dev/sda, konfiguracje musisz zapisac do pliku /mnt/etc/fstab
 ```
 genfstab -U -p /mnt >> /mnt/etc/fstab
 ```
@@ -122,7 +123,7 @@ mkinitcpio -p linux
 
 21. Zainstaluj pakiet gruba
 ```
- pacman -S grub
+pacman -S grub
 ```
 
 22. Zainstaluj pliki konfiguracyjne gruba na dysku z którego będziemy bootwać system (dodaj opcje sprawdzenia poprawności)
