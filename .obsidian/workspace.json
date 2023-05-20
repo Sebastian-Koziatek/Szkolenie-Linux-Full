@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/2. Manager pakietów YUM.md",
+                "file": "Dział 2 - Podstawy pracy z systemem Linux/I. SSH/6. Generowanie par kluczy.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/2. Manager pakietów YUM.md",
+                "file": "Dział 2 - Podstawy pracy z systemem Linux/I. SSH/6. Generowanie par kluczy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/2. Manager pakietów YUM.md",
+                "file": "Dział 2 - Podstawy pracy z systemem Linux/I. SSH/6. Generowanie par kluczy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/2. Manager pakietów YUM.md"
+                "file": "Dział 2 - Podstawy pracy z systemem Linux/I. SSH/6. Generowanie par kluczy.md"
               }
             }
           }
@@ -156,8 +156,18 @@
   },
   "active": "54ce4d3923152520",
   "lastOpenFiles": [
-    "Zadania/2. Managery pakietów/I. Zadania.md",
+    "grafiki/2_3_6_putty.png",
+    "grafiki/2_3_5_putty.png",
+    "grafiki/2_3_4_putty.png",
+    "Dział 2 - Podstawy pracy z systemem Linux/I. SSH/6. Generowanie par kluczy.md",
+    "Dział 2 - Podstawy pracy z systemem Linux/I. SSH/3. Putty.md",
+    "Dział 2 - Podstawy pracy z systemem Linux/I. SSH/4. Konfiguracja serwera.md",
+    "Dział 2 - Podstawy pracy z systemem Linux/I. SSH/5. Konfiguracja klienta.md",
+    "Dział 2 - Podstawy pracy z systemem Linux/I. SSH/2. Klucz SSH.md",
+    "Zadania/10. Instalacja Arch Linux/Instrukcja.md",
+    "Zadania/10. Instalacja Arch Linux/I. Zadania.md",
     "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/2. Manager pakietów YUM.md",
+    "Zadania/2. Managery pakietów/I. Zadania.md",
     "Zadania/2. Managery pakietów/II. Rozwiązania.md",
     "Zadania/1. Wprowadzenie do systemu Linux/II. Rozwiązania.md",
     "Zadania/1. Wprowadzenie do systemu Linux/I. Zadania.md",
@@ -172,20 +182,9 @@
     "Dział 1 - Wprowadzenie do systemu/III. środowiska graficzne/7. DWM.md",
     "Dział 1 - Wprowadzenie do systemu/III. środowiska graficzne/6. Desktop environment vs Windows manager.md",
     "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/I. SSH/6. Generowanie par kluczy.md",
-    "Pasted image 20230519210932.png",
-    "Pasted image 20230519210818.png",
-    "Pasted image 20230519210626.png",
     "Dział 2 - Podstawy pracy z systemem Linux/I. SSH/1. Wprowadzenie.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/I. SSH/2. Klucz SSH.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/I. SSH/5. Konfiguracja klienta.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/I. SSH/3. Putty.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/I. SSH/4. Konfiguracja serwera.md",
     "grafiki/2_3_1_ssh1.png",
     "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/5. Instalacja systemu.md",
-    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/4. Tworzenie maszyny wirtualnej.md",
-    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/3.2 Linux w chmurze.md",
-    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/3.1 RHEL vs CentOS vs CentOS Stream vs ...md",
     "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
     "grafiki/3_8_1_SELINUX2.png",
     "grafiki/3_8_1_SELINUX.png",
