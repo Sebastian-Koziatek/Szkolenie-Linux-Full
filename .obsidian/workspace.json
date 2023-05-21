@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zadania/Sieci/I. Zadania.md",
+                "file": "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zadania/Sieci/I. Zadania.md",
+                "file": "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zadania/Sieci/I. Zadania.md",
+                "file": "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zadania/Sieci/I. Zadania.md"
+                "file": "Zadania/16. Instalacja Arch Linux/Instrukcja.md"
               }
             }
           }
@@ -156,35 +156,39 @@
   },
   "active": "54ce4d3923152520",
   "lastOpenFiles": [
-    "Zadania/Sieci/II. Rozwiązania.md",
-    "Zadania/Sieci/I. Zadania.md",
-    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/2. Dostępne platformy Linux - Dystrybucje.md",
-    "Zadania/Sieci",
-    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/3. Wybór wersji systemu.md",
-    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/3.1 RHEL vs CentOS vs CentOS Stream vs ...md",
-    "Zadania/Grub/I. Zadania.md",
-    "Zadania/Grub/II. Rozwiązania.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/IV. GRUB/1. Wprowadzenie.md",
-    "Zadania/Grub",
-    "Dział 2 - Podstawy pracy z systemem Linux/IV. GRUB/2. Konfiguracja.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/II. Praca z powłoką Bash/3. Struktura katalogów.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/V. Startowanie systemu/4. GRUB.md",
-    "Zadania/Diagnostyka systemu/II. Rozwiązania.md",
-    "Zadania/Diagnostyka systemu/I. Zadania.md",
+    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/10. Plik hosts.md",
+    "Dział 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/4. Zarządzanie grupami użytkowników.md",
+    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/6. Pliki konfiguracyjne połączeń sieciowych.md",
+    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/5. Graficzne konfiguratory sieci.md",
+    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/4. Route.md",
+    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/3. Różnice między ipconfig a IP.md",
+    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/2. pakiet IP.md",
+    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/1. ifconfig.md",
+    "Dział 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu/2. Komenda locate.md",
+    "Dział 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu/1. Komenda find.md",
     "Dział 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/6. Less, tail, more.md",
-    "Zadania/Diagnostyka systemu",
-    "Dział 1 - Wprowadzenie do systemu/V. Korzystanie z pomocy w systemie/2. Omówienie polecenia info.md",
-    "Dział 1 - Wprowadzenie do systemu/V. Korzystanie z pomocy w systemie/1. Omówienie polecenia man.md",
-    "Zadania/Managery pakietów/I. Zadania.md",
-    "Zadania/Praca na powłoce/I. Zadania.md",
-    "Zadania/Praca na powłoce/II. Rozwiązania.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/II. Praca z powłoką Bash/4.  Prompt.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/II. Praca z powłoką Bash/5. Zmienne środowiskowe.md",
-    "Zadania/Aliasy/I. Zadania.md",
-    "Zadania/Symlink i hardlink/II. Rozwiązania.md",
-    "Zadania/Symlink i hardlink/I. Zadania.md",
-    "Zadania/LVM/I. Zadania.md",
-    "Zadania/Managery pakietów/II. Rozwiązania.md",
+    "Dział 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/3. Zarządzanie użytkownikami.md",
+    "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md",
+    "Zadania/13. Zarządzanie użytkownikami/I. Zadania.md",
+    "Dział 2 - Podstawy pracy z systemem Linux/III. Uprawnienia i konta administracyjne/3. su.md",
+    "Zadania/12. LVM/II. Rozwiązania.md",
+    "Zadania/12. LVM/I. Zadania.md",
+    "Dział 3 - Zarządzanie systemem Linux/III. LVM/2. Przegląd i zarządzanie LVM.md",
+    "Dział 3 - Zarządzanie systemem Linux/III. LVM/1. Wprowadzenie.md",
+    "Dział 2 - Podstawy pracy z systemem Linux/IV. GRUB/2. Konfiguracja.md",
+    "Dział 3 - Zarządzanie systemem Linux/II. RAID/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/II. RAID/4. RAID2.md",
+    "Dział 3 - Zarządzanie systemem Linux/II. RAID/5. RAID3.md",
+    "Dział 3 - Zarządzanie systemem Linux/II. RAID/6. RAID4.md",
+    "Dział 3 - Zarządzanie systemem Linux/II. RAID/7.  RAID5.md",
+    "Dział 3 - Zarządzanie systemem Linux/II. RAID/8. RAID6.md",
+    "Zadania/11. Deamony i systemctl",
+    "grafiki/2_3_2_sudo1.webp",
+    "Zadania/9. Root, sudo, su",
+    "Zadania/3. Man i info",
+    "Zadania/14. Sieci",
+    "Zadania/10. Grub i boot",
+    "Zadania/15. Diagnostyka systemu",
     "grafiki/2_3_6_putty.png",
     "grafiki/2_3_5_putty.png",
     "grafiki/2_3_4_putty.png",
@@ -194,13 +198,9 @@
     "grafiki/3_8_1_SELINUX.png",
     "Dział 3 - Zarządzanie systemem Linux/VIII. SELINUX",
     "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/Bez nazwy",
-    "Zadania/Instalacja Arch Linux",
+    "Zadania/16. Instalacja Arch Linux",
     "grafiki/2_4_1_daemony.png",
     "grafiki/2_4_1_daemony2.png",
-    "Dział 2 - Podstawy pracy z systemem Linux/VI. Deamony",
-    "Lekcja 2 - Podstawy pracy z systemem Linux/VI. Startowanie systemu/Untitled",
-    "Dział 2 - Podstawy pracy z systemem Linux/V. Startowanie systemu",
-    "Dział 2 - Podstawy pracy z systemem Linux/IV. GRUB",
-    "grafiki/3_9_1_scenariusz1.png"
+    "Dział 2 - Podstawy pracy z systemem Linux/VI. Deamony"
   ]
 }

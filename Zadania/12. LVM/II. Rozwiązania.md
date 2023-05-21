@@ -1,4 +1,4 @@
-1.  Stwórz nowy dysk w virtualbox i przypisz mu przynajmniej 10GB  
+1.  Stwórz nowy dysk w virtualbox i przypisz mu 20GB  
 
 2. Sprawdź czy dysk jest widoczny w systmie
 ```
@@ -47,7 +47,6 @@ lsblk
 lsblk -l
 ```
 
-[Zadanie opcjonalne]
 10.  Stwórz w głownym katalogu systemowym folder szkolenie, przygotuj volumen szkolenie aby można go było zamontowac w stworzonym katalogu szkolenie i zamontuj go.
 
 ```

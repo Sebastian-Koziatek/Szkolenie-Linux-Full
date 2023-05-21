@@ -3,4 +3,12 @@
 - https://bashrcgenerator.com/
 - https://ezprompt.net/
 2. Wygenerowany bash zapisz w pliku konfiguracyjnym .bashrc znajdującym się w twoim katalogu domowym użytkownika.
+```
+cd ~/.
+nano .bashrc
+```
+
 3. Załaduj pownonie powłowkę. 
+```
+bash
+```
