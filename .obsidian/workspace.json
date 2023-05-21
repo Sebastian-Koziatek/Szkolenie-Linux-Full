@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
+                "file": "Zadania/9. Root, sudo, su/II. Rozwiązania.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
+                "file": "Zadania/9. Root, sudo, su/II. Rozwiązania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
+                "file": "Zadania/9. Root, sudo, su/II. Rozwiązania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zadania/16. Instalacja Arch Linux/Instrukcja.md"
+                "file": "Zadania/9. Root, sudo, su/II. Rozwiązania.md"
               }
             }
           }
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,6 +155,14 @@
   },
   "active": "54ce4d3923152520",
   "lastOpenFiles": [
+    "Zadania/9. Root, sudo, su/I. Zadania.md",
+    "Zadania/14. Sieci/II. Rozwiązania.md",
+    "Zadania/14. Sieci/I. Zadania.md",
+    "Zadania/15. Diagnostyka systemu/II. Rozwiązania.md",
+    "Zadania/15. Diagnostyka systemu/I. Zadania.md",
+    "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
+    "Dział 3 - Zarządzanie systemem Linux/VIII. IPTABLE/2. Tables and chains.md",
+    "Dział 3 - Zarządzanie systemem Linux/VIII. IPTABLE/1. Wprowadzenie.md",
     "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/10. Plik hosts.md",
     "Dział 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/4. Zarządzanie grupami użytkowników.md",
     "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/6. Pliki konfiguracyjne połączeń sieciowych.md",
@@ -174,14 +181,6 @@
     "Zadania/12. LVM/II. Rozwiązania.md",
     "Zadania/12. LVM/I. Zadania.md",
     "Dział 3 - Zarządzanie systemem Linux/III. LVM/2. Przegląd i zarządzanie LVM.md",
-    "Dział 3 - Zarządzanie systemem Linux/III. LVM/1. Wprowadzenie.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/IV. GRUB/2. Konfiguracja.md",
-    "Dział 3 - Zarządzanie systemem Linux/II. RAID/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/II. RAID/4. RAID2.md",
-    "Dział 3 - Zarządzanie systemem Linux/II. RAID/5. RAID3.md",
-    "Dział 3 - Zarządzanie systemem Linux/II. RAID/6. RAID4.md",
-    "Dział 3 - Zarządzanie systemem Linux/II. RAID/7.  RAID5.md",
-    "Dział 3 - Zarządzanie systemem Linux/II. RAID/8. RAID6.md",
     "Zadania/11. Deamony i systemctl",
     "grafiki/2_3_2_sudo1.webp",
     "Zadania/9. Root, sudo, su",

@@ -8,7 +8,7 @@ System zarządzania pakietami dla systemów linuksowych używających systemu pa
 Podstawową i najważniejszą różnicą jest to że znajduja się w innych dystrybucjach, resztę można przedstawić w tabelce: 
 ```
 
-![Rozwiązania](/grafiki/1_04_8_1_aptvsrpm.png)
+![Rozwiązania](1_04_8_1_aptvsrpm.png)
 
 3. Czym jest repozytorium
 ```

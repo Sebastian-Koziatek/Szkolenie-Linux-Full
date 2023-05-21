@@ -76,7 +76,7 @@ cat /proc/cpuinfo
 
 15. Sprawdź jakie opóźnienia masz łącząc się z adresem np. [wp.pl](http://wp.pl)
 ```
-ping wp.pl)
+ping wp.pl
 ```
 
 16. Sprawdz listę uruchomionych w systemie serwisów

@@ -32,7 +32,6 @@ wywołuje logowanie do konta root używając poświadczeń przypisanych do konta
 ```
 
 6.  Przejrzyj plik konfiguracyjny sudo i utwórz dla swojego konta użytkownika wpis który pozwoli Ci wywoływać polecenia sudo bez koniecznośći podawania hasła użytkownika. 
-
 ```
 sudo su -
 visudo
