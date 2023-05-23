@@ -35,7 +35,9 @@ usermod -L tux1
 ```
 
 5. W innym oknie terminala spróbuj zalogować się jako tux1. Czy możesz się teraz zalogwać?
+```
  nie
+```
 
   
 6. Odblokuj konto użytkownika tux1.
