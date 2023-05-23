@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zadania/9. Root, sudo, su/II. Rozwiązania.md",
+                "file": "Zadania/17. Crontab/I.  Zadania.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdf5ac7257f1682b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zadania/17. Crontab/II. Rozwiązania.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 334.5
   },
   "right": {
     "id": "a8b16ed5da583e70",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zadania/9. Root, sudo, su/II. Rozwiązania.md",
+                "file": "Zadania/17. Crontab/II. Rozwiązania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zadania/9. Root, sudo, su/II. Rozwiązania.md",
+                "file": "Zadania/17. Crontab/II. Rozwiązania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zadania/9. Root, sudo, su/II. Rozwiązania.md"
+                "file": "Zadania/17. Crontab/II. Rozwiązania.md"
               }
             }
           }
@@ -141,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,34 +167,37 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "54ce4d3923152520",
+  "active": "fdf5ac7257f1682b",
   "lastOpenFiles": [
-    "Zadania/9. Root, sudo, su/I. Zadania.md",
-    "Zadania/14. Sieci/II. Rozwiązania.md",
-    "Zadania/14. Sieci/I. Zadania.md",
-    "Zadania/15. Diagnostyka systemu/II. Rozwiązania.md",
-    "Zadania/15. Diagnostyka systemu/I. Zadania.md",
+    "Zadania/17. Crontab/I.  Zadania.md",
+    "Zadania/17. Crontab/II. Rozwiązania.md",
     "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
-    "Dział 3 - Zarządzanie systemem Linux/VIII. IPTABLE/2. Tables and chains.md",
-    "Dział 3 - Zarządzanie systemem Linux/VIII. IPTABLE/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/10. Plik hosts.md",
-    "Dział 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/4. Zarządzanie grupami użytkowników.md",
-    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/6. Pliki konfiguracyjne połączeń sieciowych.md",
-    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/5. Graficzne konfiguratory sieci.md",
-    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/4. Route.md",
-    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/3. Różnice między ipconfig a IP.md",
-    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/2. pakiet IP.md",
-    "Dział 3 - Zarządzanie systemem Linux/VII. Konfiguracja sieci/1. ifconfig.md",
-    "Dział 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu/2. Komenda locate.md",
-    "Dział 3 - Zarządzanie systemem Linux/VI. Przeszukiwanie systemu/1. Komenda find.md",
-    "Dział 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/6. Less, tail, more.md",
-    "Dział 3 - Zarządzanie systemem Linux/V. Konfiguracja systemu/3. Zarządzanie użytkownikami.md",
-    "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md",
-    "Zadania/13. Zarządzanie użytkownikami/I. Zadania.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/III. Uprawnienia i konta administracyjne/3. su.md",
     "Zadania/12. LVM/II. Rozwiązania.md",
     "Zadania/12. LVM/I. Zadania.md",
     "Dział 3 - Zarządzanie systemem Linux/III. LVM/2. Przegląd i zarządzanie LVM.md",
+    "Dział 3 - Zarządzanie systemem Linux/III. LVM/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/III. LVM/3. Różnice między LVM a RAID.md",
+    "Dział 3 - Zarządzanie systemem Linux/II. RAID/5. RAID3.md",
+    "Dział 3 - Zarządzanie systemem Linux/II. RAID/4. RAID2.md",
+    "Dział 3 - Zarządzanie systemem Linux/II. RAID/3. RAID1.md",
+    "Dział 3 - Zarządzanie systemem Linux/II. RAID/2. RAID0.md",
+    "Dział 3 - Zarządzanie systemem Linux/II. RAID/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/VIX. Crontab/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/VIX. Crontab/3. Syntax czasu.md",
+    "Zadania/17. Crontab",
+    "Dział 3 - Zarządzanie systemem Linux/VIX. Crontab/2. Polecenia.md",
+    "Dział 3 - Zarządzanie systemem Linux/VIX. Crontab",
+    "Dział 3 - Zarządzanie systemem Linux/II. RAID/10. RAID1+0.md",
+    "Dział 2 - Podstawy pracy z systemem Linux/II. Praca z powłoką Bash/1. Schemat powłoki bash.md",
+    "Dział 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/9. Hotswap.md",
+    "Dział 2 - Podstawy pracy z systemem Linux/V. Startowanie systemu/1. Etapy startowania systemu.md",
+    "Dział 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/6. cfdisk.md",
+    "Dział 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/8. mkpart.md",
+    "Dział 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/7. parted.md",
+    "Dział 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/4. fdisk.md",
+    "Dział 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/5. gparted.md",
+    "Dział 3 - Zarządzanie systemem Linux/I. Zarządzanie dyskami/3. Typy etykiet dysku - DOS.md",
+    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
     "Zadania/11. Deamony i systemctl",
     "grafiki/2_3_2_sudo1.webp",
     "Zadania/9. Root, sudo, su",
@@ -192,14 +209,11 @@
     "grafiki/2_3_5_putty.png",
     "grafiki/2_3_4_putty.png",
     "grafiki/2_3_1_ssh1.png",
-    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
     "grafiki/3_8_1_SELINUX2.png",
     "grafiki/3_8_1_SELINUX.png",
     "Dział 3 - Zarządzanie systemem Linux/VIII. SELINUX",
     "Dział 1 - Wprowadzenie do systemu/IV. Managery pakietów/Bez nazwy",
-    "Zadania/16. Instalacja Arch Linux",
     "grafiki/2_4_1_daemony.png",
-    "grafiki/2_4_1_daemony2.png",
-    "Dział 2 - Podstawy pracy z systemem Linux/VI. Deamony"
+    "grafiki/2_4_1_daemony2.png"
   ]
 }

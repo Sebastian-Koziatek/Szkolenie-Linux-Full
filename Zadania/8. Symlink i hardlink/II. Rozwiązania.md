@@ -1,7 +1,7 @@
 1.  W swoim katalogu domowym utwórz podkatalog „links”. Przejdź do tego katalogu. Utwórz 
 ```
-mkdir ~/links**
-cd ~/links**
+mkdir ~/links
+cd ~/links
 echo "This is abc" > abc
 ```
 

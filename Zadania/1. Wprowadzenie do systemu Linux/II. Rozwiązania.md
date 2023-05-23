@@ -52,7 +52,7 @@ Najbardziej awaryjna część systemu
 Jest to partycja wymiany która służy do tymczasowego przechowywania danych
 ```
 
-9.  **Co się stanie w przypadku systemu który nie posiada zadeklarowanej pamięci ram lub jest ona wyłączona?** 
+9.  **Co się stanie w przypadku systemu który nie posiada zadeklarowanej pamięci SWAP lub jest ona wyłączona?** 
 ```
 Dane będą po prostu bezpośrednio cachowane przez dysk z pominieciem pamięci SWAP
 ```

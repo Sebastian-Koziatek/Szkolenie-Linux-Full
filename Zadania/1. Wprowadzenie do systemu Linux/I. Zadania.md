@@ -6,4 +6,4 @@
 6.  **Wymień trzy zalety pracy w trybie wiersza poleceń.**
 7.  **Wymien trzy zalety i trzy wady pracy w środowisku graficznym.**
 8.  ***Czym jest pamięc SWAP i jakie wartości powinna przybrac?***
-9.  **Co się stanie w przypadku systemu który nie posiada zadeklarowanej pamięci ram lub jest ona wyłączona?** 
+9.  **Co się stanie w przypadku systemu który nie posiada zadeklarowanej pamięci SWAP lub jest ona wyłączona?** 
