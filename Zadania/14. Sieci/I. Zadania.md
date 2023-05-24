@@ -1,17 +1,38 @@
+***Pakiet ifconfig***
 
-1.  Sprawdź aktualną konfigurację sieci: nazwę hosta, adresy IP, maskę podsieci, bramę domyślną i konfiguracje DNS.  Zapisz gdzieś te dane. 
-2.  Narzędzie ip to nowe narzędzie do sprawdzania i modyfikowania konfiguracji sieci, które jest instalowane domyślnie. Zainstaluj narzędzia ifconfig oraz route i użyj ich również do sprawdzenia konfiguracji sieci.
-3.  Użyj nowego narzędzia dostępnego w RHEL9/CentOS9 – **nmtui** i przeprowadź konfigurację sieci używając danych zanotowanych w ptk1
-4.  Uruchom ponownie system. Sprawdź ponownie konfigurację sieci.
-5.  W jaki sposób możesz odświeżyć konfigurację sieci bez potrzeby restartowania serwera?
-6.  Dowiedz się, jaki jest adres IP [wp.pl](http://www.wp.pl/)
-7.  Zmień plik /etc/hosts. Celowo wpisz zły adres dla www.wp.pl
-8.  Wykonaj ping do www.wp.pl  jaki adres jest używany?  
-9.  Przywróć pliki /etc/hosts poprzedniej konfiguracji.  
-10. Sprawdź jakie interfejsy sieciowe posiadasz w systemie
-11.  Wykonaj polecenie ethtool na używanym interfejsie sieciowym i przeanalizuj wyświetlone dane.
-12.  Wykonaj ping do 8.8.8.8. Spróbuj także użyć narzędzi traceroute i tracepath do tego adresu.
-13.  Za pomocą polecenia nmap zeskanuj otwarte porty na swoim adresie ip.
-14.  Za pomocą nmap zeskanuj całą sieć lokalną 
-***!UWAGA! JEŻELI JESTEŚ W BIURZE, LUB SIECI PUBLICZNEJ LUB INNEJ SIECI KTÓREJ NIE JESTEŚ WŁAŚCICIELEM, NIE WYKONUJ TEGO PUNKTU!!!***
-15. Za pomocą polecenia nmap określ adres IP serwera dns za pomocą którego program nmap będzie miał dokonać skanowania domeny wp.pl
+1.  Wyświetl informacje o wszystkich interfejsach sieciowych
+2. Zadanie: Konfiguruj adres IP na interfejsie sieciowym
+3. W jaki sposób wyłaczysz interfejs sieciowy?
+4. Zadanie: Wyświetlaj adres MAC interfejsu sieciowego
+___
+***Pakiet IP***
+
+1. Zadanie: Sprawdź informacje o interfejsach sieciowych
+2. Zadanie: Wyświetl tablicę routingu
+3. Konfiguracja adresu IP na interfejsie sieciowym
+4. W jaki sposób wyłączysz interfejs sieciowy?
+___
+***Ping***
+
+1. Sprawdź, czy host o adresie IP 192.168.10.1 jest dostępny w sieci lokalnej
+2. Ustal czas odpowiedzi hosta hosta o adresie IP 8.8.8.8 (DNS Google).
+3. Wykonaj ping do hosta o adresie IP 192.168.10.2, ale ogranicz liczbę wysłanych pakietów do 5.
+4. Wykonuj ping do hosta o adresie IP 192.168.10.2 w nieskończoność
+5. Wykonuj ping do hosta o adresie IP 192.168.10.2 co 2 sekundy.
+___
+***nslookup***
+
+1. Wykonaj zapytanie DNS dla nazwy domenowej "www.example.com" i wyświetl adresy IP powiązane z tą nazwą.
+2. Wykonaj zapytanie odwrotne DNS dla adresu IP 192.168.0.1 i wyświetl odpowiadającą mu nazwę domenową (jeśli istnieje).
+3. Wykonaj zapytanie DNS dla nazwy domenowej "www.example.com", korzystając z serwera DNS o adresie IP 8.8.8.8 (Google DNS).
+4. Ustal rekord MX dla domeny "example.com", który określa serwer poczty odpowiedzialny za tę domenę.
+5. Wyświetl informacje o serwerze DNS dla domeny "example.com", w tym adres IP serwera DNS.
+___
+***nmap***
+
+1.  Treść: Wykonaj szybkie skanowanie pingowe, aby sprawdzić dostępność hostów w sieci.
+2. Skanuj port 80 na hoście o adresie IP 192.168.10.2
+3. Skanuj porty od 1 do 1000 na hoście o adresie IP 192.168.10.2
+3. Wyświetl informacje o wersji i usługach działających na hoście o adresie IP 192.168.2.50.
+4. Próbuj wykryć system operacyjny hosta o adresie IP 172.16.0.1.
+5. Treść: Wykonaj szybkie skanowanie, aby zidentyfikować otwarte porty na hoście o adresie IP 192.168.0.2

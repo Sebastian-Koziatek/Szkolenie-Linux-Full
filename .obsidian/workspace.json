@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zadania/18. RHEL/I. Zadania.md",
-                "mode": "source",
+                "file": "Zadania/14. Sieci/I. Zadania.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zadania/18. RHEL/I. Zadania.md",
+                "file": "Zadania/14. Sieci/I. Zadania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zadania/18. RHEL/I. Zadania.md",
+                "file": "Zadania/14. Sieci/I. Zadania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zadania/18. RHEL/I. Zadania.md"
+                "file": "Zadania/14. Sieci/I. Zadania.md"
               }
             }
           }
@@ -156,30 +156,40 @@
   },
   "active": "54ce4d3923152520",
   "lastOpenFiles": [
+    "Zadania/14. Sieci/II. Rozwiązania.md",
+    "Zadania/14. Sieci/I. Zadania.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/8. Metody testowania sieci.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/6. Pliki konfiguracyjne połączeń sieciowych.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/7. nmtui.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/5. Graficzne konfiguratory sieci.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/4. Route.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/1. ifconfig.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/2. pakiet IP.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/3. Różnice między ipconfig a IP.md",
+    "Zadania/14. Sieci/Bez nazwy",
+    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/1. Plik fstab.md",
+    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/3. Zarządzanie użytkownikami.md",
+    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/4. Zarządzanie grupami użytkowników.md",
+    "Zadania/13. Zarządzanie użytkownikami/I. Zadania.md",
+    "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md",
     "Zadania/Scenariusze pracy/2. Menagery pakietów.md",
-    "Zadania/18. RHEL/I. Zadania.md",
     "Zadania/Scenariusze pracy/1. Zarządzanie użytkownikami i uprawnieniami.md",
-    "Zadania/17. Crontab/I.  Zadania.md",
-    "Zadania/18. RHEL/I. Zadania/Bez nazwy.md",
-    "Dział 1 - Wprowadzenie do systemu/VI. Korzystanie z pomocy w systemie/1. Omówienie polecenia man.md",
+    "Zadania/21. Systemy plików/II. Rozwiązania.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/8. System plików ZFS.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/7. System plików Btrfs.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/6. System plików XFS.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/5. Różnice pomiędzy systemami plików EXT.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/2. System plików EXT2.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/3. System plików EXT3.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/4. System plików EXT4.md",
+    "Zadania/20. Cat/II. Rozwiązania.md",
+    "Zadania/21. Systemy plików",
+    "Zadania/20. Cat",
+    "Zadania/19. Find i locate",
     "Zadania/18. RHEL/I. Zadania",
     "Zadania/18. RHEL",
-    "Dział 1 - Wprowadzenie do systemu/VI. Korzystanie z pomocy w systemie/2. Omówienie polecenia info.md",
-    "Dział 1 - Wprowadzenie do systemu/V. Managery pakietów/7. Piekło zależności (Dependency hell).md",
-    "Dział 1 - Wprowadzenie do systemu/V. Managery pakietów/6. Manager pakietów innych dystrybucji.md",
-    "Zadania/17. Crontab/II. Rozwiązania.md",
-    "Zadania/12. LVM/I. Zadania.md",
-    "Zadania/12. LVM/II. Rozwiązania.md",
-    "README.md",
     "Zadania/Scenariusze pracy",
-    "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md",
     "Zadania/13. Zarządzanie użytkownikami/Scenariusze",
-    "Zadania/13. Zarządzanie użytkownikami/I. Zadania.md",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/6. Less, tail, more.md",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/5. Polecenie cat.md",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/4. Zarządzanie grupami użytkowników.md",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/3. Zarządzanie użytkownikami.md",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/2. Uprawieniania plików i folderów.md",
     "grafiki/3_5_1_chmod.png",
     "grafiki/3_5_1_chmod2.png",
     "grafiki/3_5_1_chown.png",
@@ -189,18 +199,8 @@
     "grafiki/3_6_7_nmuti2.png",
     "grafiki/3_8_1_SELINUX.png",
     "grafiki/1_01_1_linux_anagram.png",
-    "Dział 3 - Zarządzanie systemem Linux/7. Zarządzanie użytkownikami.md",
     "Dział 3 - Zarządzanie systemem Linux/7. Użytkownicy i grupy",
-    "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
-    "Dział 3 - Zarządzanie systemem Linux/3. LVM/2. Przegląd i zarządzanie LVM.md",
-    "Dział 3 - Zarządzanie systemem Linux/3. LVM/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/3. LVM/3. Różnice między LVM a RAID.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/5. RAID3.md",
     "Zadania/17. Crontab",
-    "Dział 3 - Zarządzanie systemem Linux/8. Crontab",
-    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
-    "Zadania/11. Deamony i systemctl",
-    "Zadania/9. Root, sudo, su",
-    "Zadania/3. Man i info"
+    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png"
   ]
 }

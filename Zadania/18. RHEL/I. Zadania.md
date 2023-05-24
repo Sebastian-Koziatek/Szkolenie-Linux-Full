@@ -5,7 +5,7 @@
 5. Zainstaluj pakiet mc
 6. Sprawdź komendą man opis programu mc
 7. Sprawdź stronę pomocy za pomocą polecenia man dla pakietu mc
-8. Spadź jakie serwisy są uruchomione w systemie
+8. Sprawdź jakie serwisy są uruchomione w systemie
 9. Sprawdź status serwisu firewall oraz ssh
 10. Sprawdź plik konfiguracyjny SSH i zobacz na jakim porcie działa twoja usługa SSH
 11. Sprawdź do jakich subskrypcji masz dostęp w systemie RHEL
