@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zadania/Scenariusze pracy/2. Menagery pakietów.md",
-                "mode": "preview",
+                "file": "Zadania/18. RHEL/I. Zadania.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zadania/Scenariusze pracy/2. Menagery pakietów.md",
+                "file": "Zadania/18. RHEL/I. Zadania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zadania/Scenariusze pracy/2. Menagery pakietów.md",
+                "file": "Zadania/18. RHEL/I. Zadania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zadania/Scenariusze pracy/2. Menagery pakietów.md"
+                "file": "Zadania/18. RHEL/I. Zadania.md"
               }
             }
           }
@@ -156,11 +156,19 @@
   },
   "active": "54ce4d3923152520",
   "lastOpenFiles": [
-    "Zadania/Scenariusze pracy/1. Zarządzanie użytkownikami i uprawnieniami.md",
-    "Zadania/17. Crontab/I.  Zadania.md",
+    "Zadania/18. RHEL/I. Zadania/Bez nazwy.md",
+    "Zadania/18. RHEL/I. Zadania.md",
+    "Dział 1 - Wprowadzenie do systemu/VI. Korzystanie z pomocy w systemie/1. Omówienie polecenia man.md",
+    "Zadania/18. RHEL/I. Zadania",
+    "Zadania/18. RHEL",
+    "Dział 1 - Wprowadzenie do systemu/VI. Korzystanie z pomocy w systemie/2. Omówienie polecenia info.md",
+    "Dział 1 - Wprowadzenie do systemu/V. Managery pakietów/7. Piekło zależności (Dependency hell).md",
+    "Dział 1 - Wprowadzenie do systemu/V. Managery pakietów/6. Manager pakietów innych dystrybucji.md",
     "Zadania/17. Crontab/II. Rozwiązania.md",
-    "Zadania/12. LVM/I. Zadania.md",
+    "Zadania/17. Crontab/I.  Zadania.md",
     "Zadania/Scenariusze pracy/2. Menagery pakietów.md",
+    "Zadania/Scenariusze pracy/1. Zarządzanie użytkownikami i uprawnieniami.md",
+    "Zadania/12. LVM/I. Zadania.md",
     "Zadania/12. LVM/II. Rozwiązania.md",
     "README.md",
     "Zadania/Scenariusze pracy",
@@ -188,19 +196,11 @@
     "Dział 3 - Zarządzanie systemem Linux/3. LVM/1. Wprowadzenie.md",
     "Dział 3 - Zarządzanie systemem Linux/3. LVM/3. Różnice między LVM a RAID.md",
     "Dział 3 - Zarządzanie systemem Linux/2. RAID/5. RAID3.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/4. RAID2.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/3. RAID1.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/2. RAID0.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/8. Crontab/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/8. Crontab/3. Syntax czasu.md",
     "Zadania/17. Crontab",
     "Dział 3 - Zarządzanie systemem Linux/8. Crontab",
     "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
     "Zadania/11. Deamony i systemctl",
     "Zadania/9. Root, sudo, su",
-    "Zadania/3. Man i info",
-    "Zadania/14. Sieci",
-    "Zadania/10. Grub i boot"
+    "Zadania/3. Man i info"
   ]
 }
