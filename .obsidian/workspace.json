@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zadania/14. Sieci/I. Zadania.md",
-                "mode": "preview",
+                "file": "Zadania/20. Cat/I. Zadania.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zadania/14. Sieci/I. Zadania.md",
+                "file": "Zadania/20. Cat/I. Zadania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zadania/14. Sieci/I. Zadania.md",
+                "file": "Zadania/20. Cat/I. Zadania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zadania/14. Sieci/I. Zadania.md"
+                "file": "Zadania/20. Cat/I. Zadania.md"
               }
             }
           }
@@ -156,8 +156,14 @@
   },
   "active": "54ce4d3923152520",
   "lastOpenFiles": [
-    "Zadania/14. Sieci/II. Rozwiązania.md",
+    "Zadania/20. Cat/II. Rozwiązania.md",
+    "Zadania/20. Cat/I. Zadania.md",
+    "Zadania/21. Systemy plików/II. Rozwiązania.md",
+    "Zadania/Scenariusze pracy/1. Zarządzanie użytkownikami i uprawnieniami.md",
+    "Zadania/Scenariusze pracy/2. Menagery pakietów.md",
     "Zadania/14. Sieci/I. Zadania.md",
+    "Dział 3 - Zarządzanie systemem Linux/6. Przeszukiwanie systemu/1. Komenda find.md",
+    "Zadania/14. Sieci/II. Rozwiązania.md",
     "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/8. Metody testowania sieci.md",
     "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/6. Pliki konfiguracyjne połączeń sieciowych.md",
     "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/7. nmtui.md",
@@ -172,17 +178,11 @@
     "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/4. Zarządzanie grupami użytkowników.md",
     "Zadania/13. Zarządzanie użytkownikami/I. Zadania.md",
     "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md",
-    "Zadania/Scenariusze pracy/2. Menagery pakietów.md",
-    "Zadania/Scenariusze pracy/1. Zarządzanie użytkownikami i uprawnieniami.md",
-    "Zadania/21. Systemy plików/II. Rozwiązania.md",
     "Dział 3 - Zarządzanie systemem Linux/4. System plików/8. System plików ZFS.md",
     "Dział 3 - Zarządzanie systemem Linux/4. System plików/7. System plików Btrfs.md",
     "Dział 3 - Zarządzanie systemem Linux/4. System plików/6. System plików XFS.md",
     "Dział 3 - Zarządzanie systemem Linux/4. System plików/5. Różnice pomiędzy systemami plików EXT.md",
     "Dział 3 - Zarządzanie systemem Linux/4. System plików/2. System plików EXT2.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/3. System plików EXT3.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/4. System plików EXT4.md",
-    "Zadania/20. Cat/II. Rozwiązania.md",
     "Zadania/21. Systemy plików",
     "Zadania/20. Cat",
     "Zadania/19. Find i locate",
