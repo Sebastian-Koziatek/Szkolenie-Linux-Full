@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zadania/20. Cat/I. Zadania.md",
+                "file": "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "057daa884bba8860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/1. Plik fstab.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zadania/20. Cat/I. Zadania.md",
+                "file": "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/1. Plik fstab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zadania/20. Cat/I. Zadania.md",
+                "file": "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/1. Plik fstab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zadania/20. Cat/I. Zadania.md"
+                "file": "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/1. Plik fstab.md"
               }
             }
           }
@@ -154,35 +167,37 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "54ce4d3923152520",
+  "active": "057daa884bba8860",
   "lastOpenFiles": [
-    "Zadania/20. Cat/II. Rozwiązania.md",
-    "Zadania/20. Cat/I. Zadania.md",
-    "Zadania/21. Systemy plików/II. Rozwiązania.md",
+    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/2. Uprawieniania plików i folderów.md",
+    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/1. Plik fstab.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/6. System plików XFS.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/7. System plików Btrfs.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/8. System plików ZFS.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/5. Różnice pomiędzy systemami plików EXT.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/4. System plików EXT4.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/2. System plików EXT2.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/6. Przeszukiwanie systemu/1. Komenda find.md",
+    "Dział 3 - Zarządzanie systemem Linux/6. Przeszukiwanie systemu/2. Komenda locate.md",
+    "Dział 3 - Zarządzanie systemem Linux/8. Crontab/3. Syntax czasu.md",
+    "Dział 3 - Zarządzanie systemem Linux/8. Crontab/2. Polecenia.md",
+    "Dział 3 - Zarządzanie systemem Linux/8. Crontab/1. Wprowadzenie.md",
+    "Zadania/17. Crontab/II. Rozwiązania.md",
+    "Zadania/17. Crontab/I.  Zadania.md",
+    "Zadania/18. RHEL/I. Zadania.md",
     "Zadania/Scenariusze pracy/1. Zarządzanie użytkownikami i uprawnieniami.md",
     "Zadania/Scenariusze pracy/2. Menagery pakietów.md",
-    "Zadania/14. Sieci/I. Zadania.md",
-    "Dział 3 - Zarządzanie systemem Linux/6. Przeszukiwanie systemu/1. Komenda find.md",
-    "Zadania/14. Sieci/II. Rozwiązania.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/8. Metody testowania sieci.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/6. Pliki konfiguracyjne połączeń sieciowych.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/7. nmtui.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/5. Graficzne konfiguratory sieci.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/4. Route.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/1. ifconfig.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/2. pakiet IP.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/3. Różnice między ipconfig a IP.md",
+    "Zadania/15. Diagnostyka systemu/I. Zadania.md",
+    "Zadania/15. Diagnostyka systemu/II. Rozwiązania.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba/2. Plik konfiguracyjny.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/2. Tables and chains.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/1. Wprowadzenie.md",
+    "grafiki/3_4_1_wprowadzenie2.png",
     "Zadania/14. Sieci/Bez nazwy",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/1. Plik fstab.md",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/3. Zarządzanie użytkownikami.md",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/4. Zarządzanie grupami użytkowników.md",
-    "Zadania/13. Zarządzanie użytkownikami/I. Zadania.md",
-    "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/8. System plików ZFS.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/7. System plików Btrfs.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/6. System plików XFS.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/5. Różnice pomiędzy systemami plików EXT.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/2. System plików EXT2.md",
     "Zadania/21. Systemy plików",
     "Zadania/20. Cat",
     "Zadania/19. Find i locate",
@@ -199,8 +214,6 @@
     "grafiki/3_6_7_nmuti2.png",
     "grafiki/3_8_1_SELINUX.png",
     "grafiki/1_01_1_linux_anagram.png",
-    "Dział 3 - Zarządzanie systemem Linux/7. Użytkownicy i grupy",
-    "Zadania/17. Crontab",
-    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png"
+    "Dział 3 - Zarządzanie systemem Linux/7. Użytkownicy i grupy"
   ]
 }
