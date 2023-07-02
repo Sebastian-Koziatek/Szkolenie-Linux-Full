@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/1. Plik fstab.md",
-                "mode": "preview",
+                "file": "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/1. Plik fstab.md",
+                "file": "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/1. Plik fstab.md",
+                "file": "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/1. Plik fstab.md"
+                "file": "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md"
               }
             }
           }
@@ -169,8 +169,11 @@
   },
   "active": "057daa884bba8860",
   "lastOpenFiles": [
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/2. Uprawieniania plików i folderów.md",
+    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
+    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
+    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
     "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/1. Plik fstab.md",
+    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/2. Uprawieniania plików i folderów.md",
     "Dział 3 - Zarządzanie systemem Linux/4. System plików/6. System plików XFS.md",
     "Dział 3 - Zarządzanie systemem Linux/4. System plików/7. System plików Btrfs.md",
     "Dział 3 - Zarządzanie systemem Linux/4. System plików/8. System plików ZFS.md",
@@ -193,9 +196,7 @@
     "Dział 3 - Zarządzanie systemem Linux/11. Samba/2. Plik konfiguracyjny.md",
     "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
     "Dział 3 - Zarządzanie systemem Linux/11. Samba/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/2. Tables and chains.md",
     "Dział 3 - Zarządzanie systemem Linux/11. Samba",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/1. Wprowadzenie.md",
     "grafiki/3_4_1_wprowadzenie2.png",
     "Zadania/14. Sieci/Bez nazwy",
     "Zadania/21. Systemy plików",
@@ -213,7 +214,6 @@
     "grafiki/3_6_7_nmuti1.png",
     "grafiki/3_6_7_nmuti2.png",
     "grafiki/3_8_1_SELINUX.png",
-    "grafiki/1_01_1_linux_anagram.png",
     "Dział 3 - Zarządzanie systemem Linux/7. Użytkownicy i grupy"
   ]
 }
