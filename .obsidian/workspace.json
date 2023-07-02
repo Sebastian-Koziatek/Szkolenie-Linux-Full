@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -169,9 +169,13 @@
   },
   "active": "057daa884bba8860",
   "lastOpenFiles": [
+    "grafiki/1_01_1_linux_anagram.png",
+    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
+    "grafiki/01_Linux_anagram.png.md",
+    "grafiki/01.Linux_anagram.png",
+    "Dział 2 - Podstawy pracy z systemem Linux/I. Edytory tekstu/1. Vi.md",
     "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
     "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
-    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
     "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/1. Plik fstab.md",
     "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/2. Uprawieniania plików i folderów.md",
     "Dział 3 - Zarządzanie systemem Linux/4. System plików/6. System plików XFS.md",
@@ -193,9 +197,6 @@
     "Zadania/Scenariusze pracy/2. Menagery pakietów.md",
     "Zadania/15. Diagnostyka systemu/I. Zadania.md",
     "Zadania/15. Diagnostyka systemu/II. Rozwiązania.md",
-    "Dział 3 - Zarządzanie systemem Linux/11. Samba/2. Plik konfiguracyjny.md",
-    "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
-    "Dział 3 - Zarządzanie systemem Linux/11. Samba/1. Wprowadzenie.md",
     "Dział 3 - Zarządzanie systemem Linux/11. Samba",
     "grafiki/3_4_1_wprowadzenie2.png",
     "Zadania/14. Sieci/Bez nazwy",
@@ -212,8 +213,6 @@
     "grafiki/3_6_4_route.png",
     "grafiki/3_6_5_ifcfg_keyfile.png",
     "grafiki/3_6_7_nmuti1.png",
-    "grafiki/3_6_7_nmuti2.png",
-    "grafiki/3_8_1_SELINUX.png",
     "Dział 3 - Zarządzanie systemem Linux/7. Użytkownicy i grupy"
   ]
 }
