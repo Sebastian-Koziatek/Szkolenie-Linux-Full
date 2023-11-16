@@ -18,4 +18,7 @@ alias
 unalias h
 ```
 5.  *Stwórz stały alias który po wywołaniu komendy update wykona aktualizacje systemu, wyczyści cache, metadane i nagłówki menagera pakietów, wyczyści konsole oraz wypisze nam infomracje o udanej aktualizacji.
+```bash
+alias update="sudo yum update; sudo clean all; clear; echo 'Aktualizacja udana'"
 
+```

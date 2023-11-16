@@ -1,7 +1,7 @@
 1.  Stwórz nowy dysk w virtualbox i przypisz mu przynajmniej 5GB  
 2.  Sprawdź czy dysk jest widoczny w systmie
 3.  Przeprowadź partycjonowanie dysku
-4.  Utwórz na nowym dysku (/dev/sdc) nową partycję
+4.  Utwórz na nowym dysku (/dev/sdb) nową partycję
 5.  Rozszerz grupę voluminów (VG) cs o nowy psychiczny volumen (PV)
 6.  Sprawdź czy nowy psychiczny volumen został dodany do grupy volumenów
 7.  Stwórz nowy volumen logiczny (LV) o nazwie szkolenie i wielkości 9GB w grupie volumenów cs

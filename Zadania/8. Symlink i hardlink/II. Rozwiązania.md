@@ -1,4 +1,4 @@
-1.  W swoim katalogu domowym utwórz podkatalog „links”. Przejdź do tego katalogu. Utwórz 
+1.  W swoim katalogu domowym utwórz podkatalog „links”. Przejdź do tego katalogu.
 ```
 mkdir ~/links
 cd ~/links

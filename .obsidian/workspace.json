@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
-                "mode": "preview",
+                "file": "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
+                "file": "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
+                "file": "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md"
+                "file": "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md"
               }
             }
           }
@@ -169,34 +169,35 @@
   },
   "active": "057daa884bba8860",
   "lastOpenFiles": [
-    "grafiki/1_01_1_linux_anagram.png",
-    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
-    "grafiki/01_Linux_anagram.png.md",
-    "grafiki/01.Linux_anagram.png",
-    "Dział 2 - Podstawy pracy z systemem Linux/I. Edytory tekstu/1. Vi.md",
-    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
-    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/1. Plik fstab.md",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/2. Uprawieniania plików i folderów.md",
+    "Zadania/13. Zarządzanie użytkownikami/I. Zadania.md",
+    "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md",
+    "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
+    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/4. Zarządzanie grupami użytkowników.md",
+    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/3. Zarządzanie użytkownikami.md",
+    "Zadania/12. LVM/II. Rozwiązania.md",
+    "Zadania/12. LVM/I. Zadania.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/8. System plików ZFS.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/2. System plików EXT2.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/3. System plików EXT3.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/4. System plików EXT4.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/5. Różnice pomiędzy systemami plików EXT.md",
     "Dział 3 - Zarządzanie systemem Linux/4. System plików/6. System plików XFS.md",
     "Dział 3 - Zarządzanie systemem Linux/4. System plików/7. System plików Btrfs.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/8. System plików ZFS.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/5. Różnice pomiędzy systemami plików EXT.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/4. System plików EXT4.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/2. System plików EXT2.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/6. Przeszukiwanie systemu/1. Komenda find.md",
-    "Dział 3 - Zarządzanie systemem Linux/6. Przeszukiwanie systemu/2. Komenda locate.md",
-    "Dział 3 - Zarządzanie systemem Linux/8. Crontab/3. Syntax czasu.md",
-    "Dział 3 - Zarządzanie systemem Linux/8. Crontab/2. Polecenia.md",
-    "Dział 3 - Zarządzanie systemem Linux/8. Crontab/1. Wprowadzenie.md",
-    "Zadania/17. Crontab/II. Rozwiązania.md",
-    "Zadania/17. Crontab/I.  Zadania.md",
-    "Zadania/18. RHEL/I. Zadania.md",
-    "Zadania/Scenariusze pracy/1. Zarządzanie użytkownikami i uprawnieniami.md",
-    "Zadania/Scenariusze pracy/2. Menagery pakietów.md",
-    "Zadania/15. Diagnostyka systemu/I. Zadania.md",
-    "Zadania/15. Diagnostyka systemu/II. Rozwiązania.md",
+    "Dział 3 - Zarządzanie systemem Linux/2. RAID/10. RAID1+0.md",
+    "Dział 3 - Zarządzanie systemem Linux/2. RAID/3. RAID1.md",
+    "Dział 3 - Zarządzanie systemem Linux/2. RAID/2. RAID0.md",
+    "Dział 3 - Zarządzanie systemem Linux/2. RAID/5. RAID3.md",
+    "Dział 3 - Zarządzanie systemem Linux/2. RAID/6. RAID4.md",
+    "Dział 3 - Zarządzanie systemem Linux/2. RAID/8. RAID6.md",
+    "Dział 3 - Zarządzanie systemem Linux/2. RAID/9. RAID0+1.md",
+    "Dział 3 - Zarządzanie systemem Linux/2. RAID/7.  RAID5.md",
+    "Dział 3 - Zarządzanie systemem Linux/2. RAID/4. RAID2.md",
+    "Dział 3 - Zarządzanie systemem Linux/2. RAID/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/1. Zarządzanie dyskami/1. Dyski w systemie Linux i katalog dev.md",
+    "grafiki/1_01_1_linux_anagram.png",
+    "grafiki/01.Linux_anagram.png",
+    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
     "Dział 3 - Zarządzanie systemem Linux/11. Samba",
     "grafiki/3_4_1_wprowadzenie2.png",
     "Zadania/14. Sieci/Bez nazwy",

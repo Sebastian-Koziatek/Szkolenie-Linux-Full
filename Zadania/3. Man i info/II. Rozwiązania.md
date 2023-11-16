@@ -20,4 +20,3 @@ sudo yum install mc -y
 man mc
 man info
 ```
-Brak stron pomocy

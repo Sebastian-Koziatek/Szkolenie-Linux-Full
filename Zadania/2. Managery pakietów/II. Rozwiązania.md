@@ -30,7 +30,7 @@ Pakiet yum zainstaluje paczki z repozytorium a rpm z pliku lokalnego
 Lokalizacja - /etc/yum.conf
 ```
 
-7. Czy za pośrednictwem manager pakietów yum jest moliwe pobieranie paczek z pominięciem kluczy gpg?
+7. Czy za pośrednictwem manager pakietów yum jest możliwe pobieranie paczek z pominięciem kluczy gpg?
 ```
 Tak, wystarczy w pliku yum.conf wyłączyc opcje potwierdzania kluczy gpg
 ```
@@ -40,7 +40,7 @@ Tak, wystarczy w pliku yum.conf wyłączyc opcje potwierdzania kluczy gpg
  lokalizacja /etc/yum.repos.d/
 ```
 
-9. Wymień najwazniejsze roznice pomiedzy managerem yum i dnf
+9. Wymień najważniejsze różnice pomiędzy managerem yum i dnf
 ```
 - Podczas usuwania pakietu manager DNF automatycznie usunie wszystkie pakiety zależności, które nie zostały specjalnie zainstalowane przez użytkownika.  
 - Manager DNF nie chroni pakietów jądra. Oznacza to, że możesz usunąć pakiety jądra, nawet ten, który jest uruchomiony.
@@ -52,7 +52,7 @@ Tak, wystarczy w pliku yum.conf wyłączyc opcje potwierdzania kluczy gpg
 problem struktury linuksa bazujący na trudnym lub błędnym definiowaniu zależności między pakietami potrzebnymi do ich instalacji
 ```
 
-11. Czym się rózni polecenie yum update od yum upgrade?
+11. Czym się różni polecenie yum update od yum upgrade?
 ```
 Polecenie yum upgrade wymusza usunięcie przestarzałych pakietów, podczas gdy yum update może, ale nie musi to robić. Usunięcie przestarzałych pakietów może być ryzykowne, ponieważ może usunąć pakiety, których używasz.
 ```
@@ -67,7 +67,7 @@ yum search wget mc
  yum install wget mc
 ```
 
-14.  **Bazując na informacjach zadnia 10 zaktualizuj pojedyńczy zainstalowany pakiet.**
+14.  **Zaktualizuj pojedynczy zainstalowany pakiet.**
 ```
 sudo yum update pakiet
 ```
@@ -77,7 +77,7 @@ sudo yum update pakiet
 sudo yum history
 ```
 
-16. **Wyczyś cache, metadane i nagłówki managera pakietów**.
+16. **Wyczyść cache, metadane i nagłówki managera pakietów**.
 ```
 yum clean all
 ```

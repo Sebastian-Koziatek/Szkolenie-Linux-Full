@@ -95,7 +95,7 @@ chmod +t /home/pingwiny
 
 13. Przejrzyj na informacje o starzeniu się hasła dla tux1.  
 ```
-chage -lclear
+chage -l tux1
 ```
 
 14. Zobacz, ile procesów ma już twój użytkownik uruchomionych.
