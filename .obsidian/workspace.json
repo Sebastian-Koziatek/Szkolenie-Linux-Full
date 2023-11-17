@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md",
-                "mode": "source",
+                "file": "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md",
+                "file": "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md",
+                "file": "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md"
+                "file": "Zadania/16. Instalacja Arch Linux/Instrukcja.md"
               }
             }
           }
@@ -169,32 +169,32 @@
   },
   "active": "057daa884bba8860",
   "lastOpenFiles": [
-    "Zadania/13. Zarządzanie użytkownikami/I. Zadania.md",
-    "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md",
+    "README.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba/2. Plik konfiguracyjny.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba/1. Wprowadzenie.md",
     "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/4. Zarządzanie grupami użytkowników.md",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/3. Zarządzanie użytkownikami.md",
+    "Dział 3 - Zarządzanie systemem Linux/10. SELINUX/2. Metody i tryby działania.md",
+    "Dział 3 - Zarządzanie systemem Linux/10. SELINUX/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/10. SELINUX/3. Najważniejsze polecenia.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/6. Firewalld.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/5. Scenariusz.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/4. Składnia i opcje.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/3. Targets.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/2. Tables and chains.md",
+    "Zadania/17. Crontab/II. Rozwiązania.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/1. Wprowadzenie.md",
+    "Zadania/17. Crontab/I.  Zadania.md",
+    "Dział 3 - Zarządzanie systemem Linux/8. Crontab/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/10. Plik hosts.md",
+    "Zadania/14. Sieci/II. Rozwiązania.md",
+    "Zadania/14. Sieci/I. Zadania.md",
+    "Zadania/7. Aliasy/II. Rozwiązania.md",
+    "Zadania/9. Root, sudo, su/II. Rozwiązania.md",
+    "Zadania/10. Grub i boot/II. Rozwiązania.md",
     "Zadania/12. LVM/II. Rozwiązania.md",
-    "Zadania/12. LVM/I. Zadania.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/8. System plików ZFS.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/2. System plików EXT2.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/3. System plików EXT3.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/4. System plików EXT4.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/5. Różnice pomiędzy systemami plików EXT.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/6. System plików XFS.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/7. System plików Btrfs.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/10. RAID1+0.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/3. RAID1.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/2. RAID0.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/5. RAID3.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/6. RAID4.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/8. RAID6.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/9. RAID0+1.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/7.  RAID5.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/4. RAID2.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/1. Zarządzanie dyskami/1. Dyski w systemie Linux i katalog dev.md",
+    "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/6. Pliki konfiguracyjne połączeń sieciowych.md",
     "grafiki/1_01_1_linux_anagram.png",
     "grafiki/01.Linux_anagram.png",
     "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
