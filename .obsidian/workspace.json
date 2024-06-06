@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zadania/16. Instalacja Arch Linux/Instrukcja.md"
+                "file": "README.md"
               }
             }
           }
@@ -169,35 +169,36 @@
   },
   "active": "057daa884bba8860",
   "lastOpenFiles": [
-    "README.md",
-    "Dział 3 - Zarządzanie systemem Linux/11. Samba/2. Plik konfiguracyjny.md",
-    "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
-    "Dział 3 - Zarządzanie systemem Linux/11. Samba/1. Wprowadzenie.md",
-    "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
-    "Dział 3 - Zarządzanie systemem Linux/10. SELINUX/2. Metody i tryby działania.md",
-    "Dział 3 - Zarządzanie systemem Linux/10. SELINUX/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/10. SELINUX/3. Najważniejsze polecenia.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/6. Firewalld.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/5. Scenariusz.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/4. Składnia i opcje.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/3. Targets.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/2. Tables and chains.md",
-    "Zadania/17. Crontab/II. Rozwiązania.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/1. Wprowadzenie.md",
-    "Zadania/17. Crontab/I.  Zadania.md",
-    "Dział 3 - Zarządzanie systemem Linux/8. Crontab/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/10. Plik hosts.md",
-    "Zadania/14. Sieci/II. Rozwiązania.md",
-    "Zadania/14. Sieci/I. Zadania.md",
-    "Zadania/7. Aliasy/II. Rozwiązania.md",
+    "Zadania/Scenariusze pracy/3.1 Systemd - rozwiązanie.md",
+    "Zadania/Scenariusze pracy/2.1 Praca na powłoce - rozwiazanie.md",
+    "Zadania/Scenariusze pracy/2. Praca na powłoce.md",
+    "Zadania/Scenariusze pracy/1. Menedżery pakietów.md",
+    "Zadania/Scenariusze pracy/1.2 Menadżery pakietów - rozwiązanie.md",
+    "Zadania/3. Man i info/I. Zadania.md",
+    "Zadania/2. Managery pakietów/I. Zadania.md",
+    "Zadania/1. Wprowadzenie do systemu Linux/I. Zadania.md",
+    "Zadania/1. Wprowadzenie do systemu Linux/II. Rozwiązania.md",
+    "Zadania/Podsumowanie/1. Zadania.md",
+    "Zadania/Podsumowanie/2. Rozwiazanie.md",
+    "Zadania/Podsumowanie",
     "Zadania/9. Root, sudo, su/II. Rozwiązania.md",
-    "Zadania/10. Grub i boot/II. Rozwiązania.md",
-    "Zadania/12. LVM/II. Rozwiązania.md",
-    "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/6. Pliki konfiguracyjne połączeń sieciowych.md",
+    "Zadania/21. Systemy plików/II. Rozwiązania.md",
+    "Zadania/9. Root, sudo, su/I. Zadania.md",
+    "Zadania/8. Symlink i hardlink/I. Zadania.md",
+    "Zadania/8. Symlink i hardlink/II. Rozwiązania.md",
+    "Zadania/7. Aliasy/II. Rozwiązania.md",
+    "Zadania/7. Aliasy/I. Zadania.md",
+    "Zadania/6. Prompt/I. Zadania.md",
+    "Zadania/5. Praca na powłoce/I. Zadania.md",
+    "Zadania/5. Praca na powłoce/II. Rozwiązania.md",
+    "Zadania/4. Edytory tekstu/I. Zadania.md",
+    "Zadania/2. Managery pakietów/II. Rozwiązania.md",
+    "Dział 2 - Podstawy pracy z systemem Linux/VI. Deamony/5. OpenRC.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/8. System plików ZFS.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/7. System plików Btrfs.md",
+    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia kernela.png",
     "grafiki/1_01_1_linux_anagram.png",
     "grafiki/01.Linux_anagram.png",
-    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
     "Dział 3 - Zarządzanie systemem Linux/11. Samba",
     "grafiki/3_4_1_wprowadzenie2.png",
     "Zadania/14. Sieci/Bez nazwy",
@@ -213,7 +214,6 @@
     "grafiki/3_5_1_chown.png",
     "grafiki/3_6_4_route.png",
     "grafiki/3_6_5_ifcfg_keyfile.png",
-    "grafiki/3_6_7_nmuti1.png",
-    "Dział 3 - Zarządzanie systemem Linux/7. Użytkownicy i grupy"
+    "grafiki/3_6_7_nmuti1.png"
   ]
 }

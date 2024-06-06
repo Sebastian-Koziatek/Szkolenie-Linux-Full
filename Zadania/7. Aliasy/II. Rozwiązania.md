@@ -1,24 +1,36 @@
-1.  Stwórz stały alias który po wywołaniu komendy "ping" od razu rozpocznie pingowanie adresu [wp.pl](http://wp.pl)
-```
-nano .bashrc
-alias ping="ping wp.pl"
-```
+
+1. **Utwórz alias tymczasowy do wyświetlenia aktualnej daty i godziny:**
    
-2.  Stwórz tymczasowy alias który spowoduje że wpisanie litery „h” wyświetli historie basha
-```
-alias h="history"
-```  
+   ```bash
+   alias now='date'
+   ```
+
+2. **Utwórz alias tymczasowy do wyświetlenia listy plików w katalogu `/etc`:**
    
-3.  Wyświetl wszystkie alias które aktualnie posiadasz w systemie
-```
-alias
-```
-4.  Usuń alias "h"
-```
-unalias h
-```
-5.  *Stwórz stały alias który po wywołaniu komendy update wykona aktualizacje systemu, wyczyści cache, metadane i nagłówki menagera pakietów, wyczyści konsole oraz wypisze nam infomracje o udanej aktualizacji.
+   ```bash
+   alias etc='ls /etc'
+   ```
+
+3. **Utwórz alias tymczasowy do wyświetlenia listy zainstalowanych pakietów:**
+   
+   ```bash
+   alias packages='yum list installed'
+   ```
+
+4. **Utwórz alias tymczasowy do szybkiego przejścia do katalogu domowego:**
+   
+   ```bash
+   alias home='cd ~'
+   ```
+
+5. **Utwórz alias tymczasowy do wyświetlenia zajętości dysku w formie graficznej:**
+   
+   ```bash
+   alias disk='df -h'
+   ```
+
+6. **Utwórz stały alias do aktualizacji systemu, wyczyszczenia cache, metadanych i nagłówków menedżera pakietów oraz wyświetlenia informacji o sukcesie:**
+   
 ```bash
 alias update="sudo yum update; sudo clean all; clear; echo 'Aktualizacja udana'"
-
 ```
