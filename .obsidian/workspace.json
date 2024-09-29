@@ -14,25 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "057daa884bba8860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md"
               }
             }
           }
@@ -167,8 +154,21 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "057daa884bba8860",
+  "active": "54ce4d3923152520",
   "lastOpenFiles": [
+    "Dział 1 - Wprowadzenie do systemu/III. środowiska graficzne/1. GNOME.md",
+    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/6. Linux SWAP vs NO SWAP.md",
+    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/5. Instalacja systemu.md",
+    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/4. Tworzenie maszyny wirtualnej.md",
+    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/3.2 Linux w chmurze.md",
+    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/3.1 RHEL vs CentOS vs CentOS Stream vs ...md",
+    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/3. Wybór wersji systemu.md",
+    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/2. Dostępne platformy Linux - Dystrybucje.md",
+    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/1. Wybór nośnika instalacji.md",
+    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
+    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia kernela.png",
+    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
+    "README.md",
     "Zadania/Scenariusze pracy/3.1 Systemd - rozwiązanie.md",
     "Zadania/Scenariusze pracy/2.1 Praca na powłoce - rozwiazanie.md",
     "Zadania/Scenariusze pracy/2. Praca na powłoce.md",
@@ -184,19 +184,6 @@
     "Zadania/9. Root, sudo, su/II. Rozwiązania.md",
     "Zadania/21. Systemy plików/II. Rozwiązania.md",
     "Zadania/9. Root, sudo, su/I. Zadania.md",
-    "Zadania/8. Symlink i hardlink/I. Zadania.md",
-    "Zadania/8. Symlink i hardlink/II. Rozwiązania.md",
-    "Zadania/7. Aliasy/II. Rozwiązania.md",
-    "Zadania/7. Aliasy/I. Zadania.md",
-    "Zadania/6. Prompt/I. Zadania.md",
-    "Zadania/5. Praca na powłoce/I. Zadania.md",
-    "Zadania/5. Praca na powłoce/II. Rozwiązania.md",
-    "Zadania/4. Edytory tekstu/I. Zadania.md",
-    "Zadania/2. Managery pakietów/II. Rozwiązania.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/VI. Deamony/5. OpenRC.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/8. System plików ZFS.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/7. System plików Btrfs.md",
-    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia kernela.png",
     "grafiki/1_01_1_linux_anagram.png",
     "grafiki/01.Linux_anagram.png",
     "Dział 3 - Zarządzanie systemem Linux/11. Samba",
