@@ -25,7 +25,7 @@ find / -type d -name "*test*"
 
 5. Znajdź pliki wykonywalne w katalogu /bin.
 ```
-find /bin -type f -executable
+find /usr/bin -type f -executable
 ```
 
 6. Znajdź pliki o nazwie "config" bez względu na wielkość liter w katalogu /etc.
@@ -40,7 +40,7 @@ find /var/log -type f -exec grep -l "error" {} +
 
 8. Znajdź wszystkie pliki, które nie zostały zmodyfikowane w ciągu ostatnich 30 dni w katalogu /home/user/docs.
 ```
-find /home/user/docs -type f -mtime +3
+find /home/user/docs -type f -mtime +30
 ```
 
 9. Znajdź wszystkie pliki, które mają ustawione prawa dostępu 777 w katalogu /var/www.

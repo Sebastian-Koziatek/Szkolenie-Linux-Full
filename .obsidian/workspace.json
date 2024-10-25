@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7e40039352a9ccb0",
+        "id": "f1e4eb95f348b82c",
         "type": "tabs",
         "children": [
           {
-            "id": "54ce4d3923152520",
+            "id": "dc7bbe784ef908b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
+                "file": "Dział 1 - Wprowadzenie do systemu/IV. SSH/6. Generowanie par kluczy.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "6. Generowanie par kluczy"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Przeglądarka plików"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Szukaj"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Wtyczka już nieaktywna"
             }
           },
           {
@@ -70,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Zakładki"
             }
           }
         ]
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
+                "file": "Zadania/11. Deamony i systemctl/I. Zadania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Łącza zwrotne do I. Zadania"
             }
           },
           {
@@ -110,10 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
+                "file": "Zadania/11. Deamony i systemctl/I. Zadania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Linki wychodzące z I. Zadania"
             }
           },
           {
@@ -124,7 +138,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tagi"
             }
           },
           {
@@ -133,8 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md"
-              }
+                "file": "Zadania/11. Deamony i systemctl/I. Zadania.md"
+              },
+              "icon": "lucide-list",
+              "title": "Zarys I. Zadania"
             }
           }
         ]
@@ -154,36 +172,36 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "54ce4d3923152520",
+  "active": "dc7bbe784ef908b9",
   "lastOpenFiles": [
-    "Dział 1 - Wprowadzenie do systemu/III. środowiska graficzne/1. GNOME.md",
-    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/6. Linux SWAP vs NO SWAP.md",
-    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/5. Instalacja systemu.md",
-    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/4. Tworzenie maszyny wirtualnej.md",
-    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/3.2 Linux w chmurze.md",
-    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/3.1 RHEL vs CentOS vs CentOS Stream vs ...md",
-    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/3. Wybór wersji systemu.md",
-    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/2. Dostępne platformy Linux - Dystrybucje.md",
-    "Dział 1 - Wprowadzenie do systemu/II. Podstawowa instalacja systemu Linux/1. Wybór nośnika instalacji.md",
-    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/3. Tux i Linux logo.md",
-    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia kernela.png",
-    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/1. Czym jest Linux.md",
-    "README.md",
-    "Zadania/Scenariusze pracy/3.1 Systemd - rozwiązanie.md",
-    "Zadania/Scenariusze pracy/2.1 Praca na powłoce - rozwiazanie.md",
-    "Zadania/Scenariusze pracy/2. Praca na powłoce.md",
-    "Zadania/Scenariusze pracy/1. Menedżery pakietów.md",
-    "Zadania/Scenariusze pracy/1.2 Menadżery pakietów - rozwiązanie.md",
-    "Zadania/3. Man i info/I. Zadania.md",
-    "Zadania/2. Managery pakietów/I. Zadania.md",
-    "Zadania/1. Wprowadzenie do systemu Linux/I. Zadania.md",
-    "Zadania/1. Wprowadzenie do systemu Linux/II. Rozwiązania.md",
+    "Dział 1 - Wprowadzenie do systemu/IV. SSH/2. Klucz SSH.md",
+    "Zadania/19. Find i locate/I. Zadania.md",
+    "Dział 3 - Zarządzanie systemem Linux/6. Przeszukiwanie systemu/1. Komenda find.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/10. Plik hosts.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/9. nmap.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/8. Metody testowania sieci.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/7. nmtui.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/6. Pliki konfiguracyjne połączeń sieciowych.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/5. Graficzne konfiguratory sieci.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/4. Route.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/3. Różnice między ipconfig a IP.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/2. pakiet IP.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/1. ifconfig.md",
+    "Dział 3 - Zarządzanie systemem Linux/8. Crontab/3. Syntax czasu.md",
+    "Dział 3 - Zarządzanie systemem Linux/6. Przeszukiwanie systemu/2. Komenda locate.md",
+    "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
     "Zadania/Podsumowanie/1. Zadania.md",
     "Zadania/Podsumowanie/2. Rozwiazanie.md",
+    "Dział 1 - Wprowadzenie do systemu/IV. SSH/5. Konfiguracja klienta.md",
+    "Dział 1 - Wprowadzenie do systemu/IV. SSH/6. Generowanie par kluczy.md",
+    "Dział 1 - Wprowadzenie do systemu/IV. SSH/4. Konfiguracja serwera.md",
+    "Zadania/17. Crontab/II. Rozwiązania.md",
+    "Zadania/17. Crontab/I.  Zadania.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba/2. Plik konfiguracyjny.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba/1. Wprowadzenie.md",
+    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia kernela.png",
     "Zadania/Podsumowanie",
-    "Zadania/9. Root, sudo, su/II. Rozwiązania.md",
-    "Zadania/21. Systemy plików/II. Rozwiązania.md",
-    "Zadania/9. Root, sudo, su/I. Zadania.md",
     "grafiki/1_01_1_linux_anagram.png",
     "grafiki/01.Linux_anagram.png",
     "Dział 3 - Zarządzanie systemem Linux/11. Samba",
