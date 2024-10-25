@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zadania/15. Diagnostyka systemu/II. Rozwiązania.md",
-                "mode": "preview",
+                "file": "Zadania/18. RHEL/I. Zadania.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "II. Rozwiązania"
+              "title": "I. Zadania"
             }
           }
         ]
@@ -174,8 +174,11 @@
   },
   "active": "dc7bbe784ef908b9",
   "lastOpenFiles": [
-    "Zadania/15. Diagnostyka systemu/I. Zadania.md",
+    "Zadania/17. Crontab/I.  Zadania.md",
+    "Zadania/17. Crontab/II. Rozwiązania.md",
+    "Zadania/18. RHEL/I. Zadania.md",
     "Zadania/15. Diagnostyka systemu/II. Rozwiązania.md",
+    "Zadania/15. Diagnostyka systemu/I. Zadania.md",
     "Dział 3 - Zarządzanie systemem Linux/10. SELINUX/3. Najważniejsze polecenia.md",
     "Dział 3 - Zarządzanie systemem Linux/10. SELINUX/2. Metody i tryby działania.md",
     "Dział 3 - Zarządzanie systemem Linux/10. SELINUX/1. Wprowadzenie.md",
@@ -197,9 +200,6 @@
     "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/6. Pliki konfiguracyjne połączeń sieciowych.md",
     "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/5. Graficzne konfiguratory sieci.md",
     "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/4. Route.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/3. Różnice między ipconfig a IP.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/2. pakiet IP.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/1. ifconfig.md",
     "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia kernela.png",
     "Zadania/Podsumowanie",
     "grafiki/1_01_1_linux_anagram.png",
