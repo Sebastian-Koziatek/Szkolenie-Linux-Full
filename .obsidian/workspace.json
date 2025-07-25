@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "507ff39744bd9bc0",
+        "id": "5990985adaa33cdf",
         "type": "tabs",
         "children": [
           {
-            "id": "f6540335af7a05d4",
+            "id": "e133f9cfc21f171a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
+                "file": "Zadania/15. Diagnostyka systemu/II. Rozwiązania.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instrukcja"
+              "title": "II. Rozwiązania"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 388.5
   },
   "right": {
     "id": "a8b16ed5da583e70",
@@ -175,54 +175,54 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f6540335af7a05d4",
+  "active": "e133f9cfc21f171a",
   "lastOpenFiles": [
-    "Zadania/Scenariusze pracy/3. Systemd.md",
-    "Zadania/Scenariusze pracy/2. Praca na powłoce.md",
-    "Zadania/Scenariusze pracy/1. Menedżery pakietów.md",
-    "Zadania/Scenariusze pracy",
+    "Zadania/15. Diagnostyka systemu/I. Zadania.md",
+    "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
+    "Zadania/15. Diagnostyka systemu/II. Rozwiązania.md",
     "Dział 3 - Zarządzanie systemem Linux/10. SELINUX/3. Najważniejsze polecenia.md",
     "Dział 3 - Zarządzanie systemem Linux/10. SELINUX/2. Metody i tryby działania.md",
+    "Dział 3 - Zarządzanie systemem Linux/6. Przeszukiwanie systemu/1. Komenda find.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba/2. Plik konfiguracyjny.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba/1. Wprowadzenie.md",
     "Dział 3 - Zarządzanie systemem Linux/10. SELINUX/1. Wprowadzenie.md",
     "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/6. Firewalld.md",
     "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/5. Scenariusz.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/3. Targets.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/4. Składnia i opcje.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/2. Tables and chains.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/1. Wprowadzenie.md",
+    "Zadania/17. Crontab/II. Rozwiązania.md",
+    "Zadania/17. Crontab/I.  Zadania.md",
+    "Dział 3 - Zarządzanie systemem Linux/8. Crontab/2. Polecenia.md",
+    "Dział 3 - Zarządzanie systemem Linux/8. Crontab/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/8. Crontab/3. Syntax czasu.md",
+    "Zadania/14. Sieci/II. Rozwiązania.md",
     "Zadania/14. Sieci/I. Zadania.md",
-    "Zadania/12. LVM/I. Zadania.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/8. Metody testowania sieci.md",
     "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/9. nmap.md",
-    "Dział 3 - Zarządzanie systemem Linux/3. LVM/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/3. LVM/2. Przegląd i zarządzanie LVM.md",
-    "Dział 3 - Zarządzanie systemem Linux/1. Zarządzanie dyskami/2. MBR vs GPT.md",
-    "Dział 3 - Zarządzanie systemem Linux/1. Zarządzanie dyskami/1. Dyski w systemie Linux i katalog dev.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/3. LVM/3. Różnice między LVM a RAID.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/VI. Deamony/3. Systemctl.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/VI. Deamony/2. Przykłady deamonów.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/VI. Deamony/1. Deamony w Linuksie.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/V. Startowanie systemu/1. BIOS lubUEFI.md",
-    "Bez nazwy.canvas",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/4. Route.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/7. nmtui.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/8. Metody testowania sieci.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/10. Plik hosts.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/3. Różnice między ipconfig a IP.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/2. pakiet IP.md",
     "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia kernela.png",
-    "Zadania/Podsumowanie",
-    "grafiki/1_01_1_linux_anagram.png",
-    "grafiki/01.Linux_anagram.png",
-    "Dział 3 - Zarządzanie systemem Linux/11. Samba",
     "grafiki/3_4_1_wprowadzenie2.png",
-    "Zadania/14. Sieci/Bez nazwy",
-    "Zadania/21. Systemy plików",
-    "Zadania/20. Cat",
-    "Zadania/19. Find i locate",
-    "Zadania/18. RHEL/I. Zadania",
-    "Zadania/18. RHEL",
-    "Zadania/13. Zarządzanie użytkownikami/Scenariusze",
-    "grafiki/3_5_1_chmod.png",
-    "grafiki/3_5_1_chmod2.png",
-    "grafiki/3_5_1_chown.png",
-    "grafiki/3_6_4_route.png",
-    "grafiki/3_6_5_ifcfg_keyfile.png",
-    "grafiki/3_6_7_nmuti1.png"
+    "grafiki/1_03_2_ubuntu.png",
+    "grafiki/3_2_1_raid3_4.png",
+    "grafiki/2_02_24_var.png",
+    "grafiki/3_2_1_raid5_2.png",
+    "grafiki/3_2_1_raid4.png",
+    "grafiki/3_4_1_wprowadzenie.png",
+    "grafiki/1_03_02_KDE.png",
+    "grafiki/3_2_1_raid5.png",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE",
+    "Dział 3 - Zarządzanie systemem Linux/6. Przeszukiwanie systemu",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba",
+    "Dział 3 - Zarządzanie systemem Linux/3. LVM",
+    "Dział 3 - Zarządzanie systemem Linux/10. SELINUX",
+    "Dział 3 - Zarządzanie systemem Linux/2. RAID",
+    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików",
+    "Dział 3 - Zarządzanie systemem Linux/8. Crontab",
+    "Bez nazwy.canvas"
   ]
 }
