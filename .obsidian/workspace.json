@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zadania/1. Wprowadzenie do systemu Linux/I. Zadania.md",
+                "file": "Dział 2 - Podstawy pracy z systemem Linux/II. Praca z powłoką Bash/3. Struktura katalogów.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I. Zadania"
+              "title": "3. Struktura katalogów"
             }
           }
         ]
@@ -187,8 +187,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "04394065be70cde9",
+  "active": "07b63b8b23eaede4",
   "lastOpenFiles": [
+    "Zadania/1. Wprowadzenie do systemu Linux/I. Zadania.md",
     "Zadania/10. Grub i boot/II. Rozwiązania.md",
     "Zadania/8. Symlink i hardlink/II. Rozwiązania.md",
     "Zadania/1. Wprowadzenie do systemu Linux/II. Rozwiązania.md",
@@ -208,7 +209,6 @@
     "Zadania/17. Crontab/2. Rozwiązania.md",
     "Zadania/13. Zarządzanie użytkownikami/2. Rozwiązania.md",
     "Zadania/1. Wprowadzenie do systemu Linux/2. Rozwiązania.md",
-    "Zadania/1. Wprowadzenie do systemu Linux/I. Zadania.md",
     "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
     "Dział 3 - Zarządzanie systemem Linux/11. Samba/2. Plik konfiguracyjny.md",
     "Dział 3 - Zarządzanie systemem Linux/11. Samba/1. Wprowadzenie.md",
