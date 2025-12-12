@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/6. Firewalld.md",
-                "mode": "preview",
+                "file": "Zadania/17. Crontab/II. Rozwiązania.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Firewalld"
+              "title": "II. Rozwiązania"
             }
           }
         ]
@@ -162,8 +162,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           }
         ],
@@ -189,35 +189,35 @@
   },
   "active": "07b63b8b23eaede4",
   "lastOpenFiles": [
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/5. Scenariusz.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/10. Plik hosts.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/6. Pliki konfiguracyjne połączeń sieciowych.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/3. Różnice między ipconfig a IP.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/4. Route.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/5. Graficzne konfiguratory sieci.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/7. nmtui.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/8. Metody testowania sieci.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/9. nmap.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/6. Firewalld.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/4. Składnia i opcje.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/3. Targets.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/2. Tables and chains.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/1. Wprowadzenie.md",
-    "Zadania/15. Diagnostyka systemu/I. Zadania.md",
-    "Zadania/14. Sieci/II. Rozwiązania.md",
-    "Zadania/14. Sieci/I. Zadania.md",
+    "Zadania/17. Crontab/I.  Zadania.md",
+    "Zadania/17. Crontab/II. Rozwiązania.md",
+    "Zadania/19. Find i locate/I. Zadania.md",
+    "Zadania/19. Find i locate/II. Rozwiązania.md",
+    "Dział 3 - Zarządzanie systemem Linux/6. Przeszukiwanie systemu/1. Komenda find.md",
+    "Dział 4 - Tematy dodatkowe/2. Logi.md",
+    "Dział 4 - Tematy dodatkowe/3. Logi z kolorowaniem.md",
+    "Zadania/12. LVM/I. Zadania.md",
     "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/2. pakiet IP.md",
     "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/1. ifconfig.md",
+    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/6. Less, tail, more.md",
+    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/5. Polecenie cat.md",
+    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/4. Zarządzanie grupami użytkowników.md",
+    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/3. Zarządzanie użytkownikami.md",
+    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/2. Uprawieniania plików i folderów.md",
     "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/1. Plik fstab.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/II. Praca z powłoką Bash/3. Struktura katalogów.md",
-    "Zadania/1. Wprowadzenie do systemu Linux/I. Zadania.md",
-    "Zadania/10. Grub i boot/II. Rozwiązania.md",
-    "Zadania/8. Symlink i hardlink/II. Rozwiązania.md",
-    "Zadania/1. Wprowadzenie do systemu Linux/II. Rozwiązania.md",
-    "Zadania/3. Man i info/II. Rozwiązania.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/8. System plików ZFS.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/7. System plików Btrfs.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/6. System plików XFS.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/5. Różnice pomiędzy systemami plików EXT.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/4. System plików EXT4.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/3. System plików EXT3.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/2. System plików EXT2.md",
+    "Dział 3 - Zarządzanie systemem Linux/4. System plików/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/3. LVM/2. Przegląd i zarządzanie LVM.md",
+    "Dział 3 - Zarządzanie systemem Linux/3. LVM/1. Wprowadzenie.md",
+    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia kernela.png",
     "Bez nazwy 1.base",
     "Bez nazwy.base",
-    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia kernela.png",
     "grafiki/3_4_1_wprowadzenie2.png",
     "grafiki/1_03_2_ubuntu.png",
     "grafiki/3_2_1_raid3_4.png",
