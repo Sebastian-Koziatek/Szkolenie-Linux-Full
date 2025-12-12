@@ -64,22 +64,22 @@ ping 192.168.10.1
 ping 8.8.8.8
 ```
 
-**3. Wykonaj ping do hosta o adresie IP 192.168.10.2, ale ogranicz liczbę wysłanych pakietów do 5:**
+**3. Wykonaj ping do hosta o adresie IP 10.123.0.2, ale ogranicz liczbę wysłanych pakietów do 5:**
 
 ```bash
-ping -c 5 192.168.10.2
+ping -c 5 10.123.0.2
 ```
 
-**4. Wykonuj ping do hosta o adresie IP 192.168.10.2 w nieskończoność:**
+**4. Wykonuj ping do hosta o adresie IP 10.123.0.2 w nieskończoność:**
 ```bash
-ping 192.168.10.2
+ping 10.123.0.2
 ```
 
   
 
-**5. Wykonuj ping do hosta o adresie IP 192.168.10.2 co 2 sekundy:**
+**5. Wykonuj ping do hosta o adresie IP 10.123.0.2 co 2 sekundy:**
 ```bash
-ping -i 2 192.168.10.2
+ping -i 2 10.123.0.2
 ```
 
 ---
@@ -91,9 +91,9 @@ ping -i 2 192.168.10.2
 nslookup www.example.com
 ```
 
-**2. Wykonaj zapytanie odwrotne DNS dla adresu IP 192.168.0.1:**
+**2. Wykonaj zapytanie odwrotne DNS dla adresu IP 10.123.0.1:**
 ```bash
-nslookup 192.168.0.1
+nslookup 10.123.0.1
 ```
 
   
@@ -130,31 +130,24 @@ nslookup -type=ns example.com
 
 **1. Wykonaj szybkie skanowanie pingowe:**
 ```bash
-nmap -sn 192.168.10.0/24
+nmap -sn 10.123.0.1/24
 ```
 
   
-
-**2. Skanuj port 80 na hoście o adresie IP 192.168.10.2:**
-
-  
-
-```bash
 
 nmap -p 80 192.168.10.2
-
-```
-
-  
-
-**3. Skanuj porty od 1 do 1000 na hoście o adresie IP 192.168.10.2:**
-
-  
-
-```bash
-
 nmap -p 1-1000 192.168.10.2
 
+**2. Skanuj port 80 na hoście o adresie IP 10.123.0.2:**
+
+```bash
+nmap -p 80 10.123.0.2
+```
+
+**3. Skanuj porty od 1 do 1000 na hoście o adresie IP 10.123.0.2:**
+
+```bash
+nmap -p 1-1000 10.123.0.2
 ```
 
   
